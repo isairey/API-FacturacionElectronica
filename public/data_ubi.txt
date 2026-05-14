@@ -1,0 +1,1875 @@
+id|nombre|info_busqueda|provincia_id|region_id
+010101|Chachapoyas|Chachapoyas / Chachapoyas / Amazonas|010100|010000
+010102|Asunción|Asunción / Chachapoyas / Amazonas|010100|010000
+010103|Balsas|Balsas / Chachapoyas / Amazonas|010100|010000
+010104|Cheto|Cheto / Chachapoyas / Amazonas|010100|010000
+010105|Chiliquin|Chiliquin / Chachapoyas / Amazonas|010100|010000
+010106|Chuquibamba|Chuquibamba / Chachapoyas / Amazonas|010100|010000
+010107|Granada|Granada / Chachapoyas / Amazonas|010100|010000
+010108|Huancas|Huancas / Chachapoyas / Amazonas|010100|010000
+010109|La Jalca|La Jalca / Chachapoyas / Amazonas|010100|010000
+010110|Leimebamba|Leimebamba / Chachapoyas / Amazonas|010100|010000
+010111|Levanto|Levanto / Chachapoyas / Amazonas|010100|010000
+010112|Magdalena|Magdalena / Chachapoyas / Amazonas|010100|010000
+010113|Mariscal Castilla|Mariscal Castilla / Chachapoyas / Amazonas|010100|010000
+010114|Molinopampa|Molinopampa / Chachapoyas / Amazonas|010100|010000
+010115|Montevideo|Montevideo / Chachapoyas / Amazonas|010100|010000
+010116|Olleros|Olleros / Chachapoyas / Amazonas|010100|010000
+010117|Quinjalca|Quinjalca / Chachapoyas / Amazonas|010100|010000
+010118|San Francisco de Daguas|San Francisco de Daguas / Chachapoyas / Amazonas|010100|010000
+010119|San Isidro de Maino|San Isidro de Maino / Chachapoyas / Amazonas|010100|010000
+010120|Soloco|Soloco / Chachapoyas / Amazonas|010100|010000
+010121|Sonche|Sonche / Chachapoyas / Amazonas|010100|010000
+010201|Bagua|Bagua / Bagua / Amazonas|010200|010000
+010202|Aramango|Aramango / Bagua / Amazonas|010200|010000
+010203|Copallin|Copallin / Bagua / Amazonas|010200|010000
+010204|El Parco|El Parco / Bagua / Amazonas|010200|010000
+010205|Imaza|Imaza / Bagua / Amazonas|010200|010000
+010206|La Peca|La Peca / Bagua / Amazonas|010200|010000
+010301|Jumbilla|Jumbilla / Bongará / Amazonas|010300|010000
+010302|Chisquilla|Chisquilla / Bongará / Amazonas|010300|010000
+010303|Churuja|Churuja / Bongará / Amazonas|010300|010000
+010304|Corosha|Corosha / Bongará / Amazonas|010300|010000
+010305|Cuispes|Cuispes / Bongará / Amazonas|010300|010000
+010306|Florida|Florida / Bongará / Amazonas|010300|010000
+010307|Jazan|Jazan / Bongará / Amazonas|010300|010000
+010308|Recta|Recta / Bongará / Amazonas|010300|010000
+010309|San Carlos|San Carlos / Bongará / Amazonas|010300|010000
+010310|Shipasbamba|Shipasbamba / Bongará / Amazonas|010300|010000
+010311|Valera|Valera / Bongará / Amazonas|010300|010000
+010312|Yambrasbamba|Yambrasbamba / Bongará / Amazonas|010300|010000
+010401|Nieva|Nieva / Condorcanqui / Amazonas|010400|010000
+010402|El Cenepa|El Cenepa / Condorcanqui / Amazonas|010400|010000
+010403|Río Santiago|Río Santiago / Condorcanqui / Amazonas|010400|010000
+010501|Lamud|Lamud / Luya / Amazonas|010500|010000
+010502|Camporredondo|Camporredondo / Luya / Amazonas|010500|010000
+010503|Cocabamba|Cocabamba / Luya / Amazonas|010500|010000
+010504|Colcamar|Colcamar / Luya / Amazonas|010500|010000
+010505|Conila|Conila / Luya / Amazonas|010500|010000
+010506|Inguilpata|Inguilpata / Luya / Amazonas|010500|010000
+010507|Longuita|Longuita / Luya / Amazonas|010500|010000
+010508|Lonya Chico|Lonya Chico / Luya / Amazonas|010500|010000
+010509|Luya|Luya / Luya / Amazonas|010500|010000
+010510|Luya Viejo|Luya Viejo / Luya / Amazonas|010500|010000
+010511|María|María / Luya / Amazonas|010500|010000
+010512|Ocalli|Ocalli / Luya / Amazonas|010500|010000
+010513|Ocumal|Ocumal / Luya / Amazonas|010500|010000
+010514|Pisuquia|Pisuquia / Luya / Amazonas|010500|010000
+010515|Providencia|Providencia / Luya / Amazonas|010500|010000
+010516|San Cristóbal|San Cristóbal / Luya / Amazonas|010500|010000
+010517|San Francisco de Yeso|San Francisco de Yeso / Luya / Amazonas|010500|010000
+010518|San Jerónimo|San Jerónimo / Luya / Amazonas|010500|010000
+010519|San Juan de Lopecancha|San Juan de Lopecancha / Luya / Amazonas|010500|010000
+010520|Santa Catalina|Santa Catalina / Luya / Amazonas|010500|010000
+010521|Santo Tomas|Santo Tomas / Luya / Amazonas|010500|010000
+010522|Tingo|Tingo / Luya / Amazonas|010500|010000
+010523|Trita|Trita / Luya / Amazonas|010500|010000
+010601|San Nicolás|San Nicolás / Rodríguez de Mendoza / Amazonas|010600|010000
+010602|Chirimoto|Chirimoto / Rodríguez de Mendoza / Amazonas|010600|010000
+010603|Cochamal|Cochamal / Rodríguez de Mendoza / Amazonas|010600|010000
+010604|Huambo|Huambo / Rodríguez de Mendoza / Amazonas|010600|010000
+010605|Limabamba|Limabamba / Rodríguez de Mendoza / Amazonas|010600|010000
+010606|Longar|Longar / Rodríguez de Mendoza / Amazonas|010600|010000
+010607|Mariscal Benavides|Mariscal Benavides / Rodríguez de Mendoza / Amazonas|010600|010000
+010608|Milpuc|Milpuc / Rodríguez de Mendoza / Amazonas|010600|010000
+010609|Omia|Omia / Rodríguez de Mendoza / Amazonas|010600|010000
+010610|Santa Rosa|Santa Rosa / Rodríguez de Mendoza / Amazonas|010600|010000
+010611|Totora|Totora / Rodríguez de Mendoza / Amazonas|010600|010000
+010612|Vista Alegre|Vista Alegre / Rodríguez de Mendoza / Amazonas|010600|010000
+010701|Bagua Grande|Bagua Grande / Utcubamba / Amazonas|010700|010000
+010702|Cajaruro|Cajaruro / Utcubamba / Amazonas|010700|010000
+010703|Cumba|Cumba / Utcubamba / Amazonas|010700|010000
+010704|El Milagro|El Milagro / Utcubamba / Amazonas|010700|010000
+010705|Jamalca|Jamalca / Utcubamba / Amazonas|010700|010000
+010706|Lonya Grande|Lonya Grande / Utcubamba / Amazonas|010700|010000
+010707|Yamon|Yamon / Utcubamba / Amazonas|010700|010000
+020101|Huaraz|Huaraz / Huaraz / Áncash|020100|020000
+020102|Cochabamba|Cochabamba / Huaraz / Áncash|020100|020000
+020103|Colcabamba|Colcabamba / Huaraz / Áncash|020100|020000
+020104|Huanchay|Huanchay / Huaraz / Áncash|020100|020000
+020105|Independencia|Independencia / Huaraz / Áncash|020100|020000
+020106|Jangas|Jangas / Huaraz / Áncash|020100|020000
+020107|La Libertad|La Libertad / Huaraz / Áncash|020100|020000
+020108|Olleros|Olleros / Huaraz / Áncash|020100|020000
+020109|Pampas Grande|Pampas Grande / Huaraz / Áncash|020100|020000
+020110|Pariacoto|Pariacoto / Huaraz / Áncash|020100|020000
+020111|Pira|Pira / Huaraz / Áncash|020100|020000
+020112|Tarica|Tarica / Huaraz / Áncash|020100|020000
+020201|Aija|Aija / Aija / Áncash|020200|020000
+020202|Coris|Coris / Aija / Áncash|020200|020000
+020203|Huacllan|Huacllan / Aija / Áncash|020200|020000
+020204|La Merced|La Merced / Aija / Áncash|020200|020000
+020205|Succha|Succha / Aija / Áncash|020200|020000
+020301|Llamellin|Llamellin / Antonio Raymondi / Áncash|020300|020000
+020302|Aczo|Aczo / Antonio Raymondi / Áncash|020300|020000
+020303|Chaccho|Chaccho / Antonio Raymondi / Áncash|020300|020000
+020304|Chingas|Chingas / Antonio Raymondi / Áncash|020300|020000
+020305|Mirgas|Mirgas / Antonio Raymondi / Áncash|020300|020000
+020306|San Juan de Rontoy|San Juan de Rontoy / Antonio Raymondi / Áncash|020300|020000
+020401|Chacas|Chacas / Asunción / Áncash|020400|020000
+020402|Acochaca|Acochaca / Asunción / Áncash|020400|020000
+020501|Chiquian|Chiquian / Bolognesi / Áncash|020500|020000
+020502|Abelardo Pardo Lezameta|Abelardo Pardo Lezameta / Bolognesi / Áncash|020500|020000
+020503|Antonio Raymondi|Antonio Raymondi / Bolognesi / Áncash|020500|020000
+020504|Aquia|Aquia / Bolognesi / Áncash|020500|020000
+020505|Cajacay|Cajacay / Bolognesi / Áncash|020500|020000
+020506|Canis|Canis / Bolognesi / Áncash|020500|020000
+020507|Colquioc|Colquioc / Bolognesi / Áncash|020500|020000
+020508|Huallanca|Huallanca / Bolognesi / Áncash|020500|020000
+020509|Huasta|Huasta / Bolognesi / Áncash|020500|020000
+020510|Huayllacayan|Huayllacayan / Bolognesi / Áncash|020500|020000
+020511|La Primavera|La Primavera / Bolognesi / Áncash|020500|020000
+020512|Mangas|Mangas / Bolognesi / Áncash|020500|020000
+020513|Pacllon|Pacllon / Bolognesi / Áncash|020500|020000
+020514|San Miguel de Corpanqui|San Miguel de Corpanqui / Bolognesi / Áncash|020500|020000
+020515|Ticllos|Ticllos / Bolognesi / Áncash|020500|020000
+020601|Carhuaz|Carhuaz / Carhuaz / Áncash|020600|020000
+020602|Acopampa|Acopampa / Carhuaz / Áncash|020600|020000
+020603|Amashca|Amashca / Carhuaz / Áncash|020600|020000
+020604|Anta|Anta / Carhuaz / Áncash|020600|020000
+020605|Ataquero|Ataquero / Carhuaz / Áncash|020600|020000
+020606|Marcara|Marcara / Carhuaz / Áncash|020600|020000
+020607|Pariahuanca|Pariahuanca / Carhuaz / Áncash|020600|020000
+020608|San Miguel de Aco|San Miguel de Aco / Carhuaz / Áncash|020600|020000
+020609|Shilla|Shilla / Carhuaz / Áncash|020600|020000
+020610|Tinco|Tinco / Carhuaz / Áncash|020600|020000
+020611|Yungar|Yungar / Carhuaz / Áncash|020600|020000
+020701|San Luis|San Luis / Carlos Fermín Fitzcarrald / Áncash|020700|020000
+020702|San Nicolás|San Nicolás / Carlos Fermín Fitzcarrald / Áncash|020700|020000
+020703|Yauya|Yauya / Carlos Fermín Fitzcarrald / Áncash|020700|020000
+020801|Casma|Casma / Casma / Áncash|020800|020000
+020802|Buena Vista Alta|Buena Vista Alta / Casma / Áncash|020800|020000
+020803|Comandante Noel|Comandante Noel / Casma / Áncash|020800|020000
+020804|Yautan|Yautan / Casma / Áncash|020800|020000
+020901|Corongo|Corongo / Corongo / Áncash|020900|020000
+020902|Aco|Aco / Corongo / Áncash|020900|020000
+020903|Bambas|Bambas / Corongo / Áncash|020900|020000
+020904|Cusca|Cusca / Corongo / Áncash|020900|020000
+020905|La Pampa|La Pampa / Corongo / Áncash|020900|020000
+020906|Yanac|Yanac / Corongo / Áncash|020900|020000
+020907|Yupan|Yupan / Corongo / Áncash|020900|020000
+021001|Huari|Huari / Huari / Áncash|021000|020000
+021002|Anra|Anra / Huari / Áncash|021000|020000
+021003|Cajay|Cajay / Huari / Áncash|021000|020000
+021004|Chavin de Huantar|Chavin de Huantar / Huari / Áncash|021000|020000
+021005|Huacachi|Huacachi / Huari / Áncash|021000|020000
+021006|Huacchis|Huacchis / Huari / Áncash|021000|020000
+021007|Huachis|Huachis / Huari / Áncash|021000|020000
+021008|Huantar|Huantar / Huari / Áncash|021000|020000
+021009|Masin|Masin / Huari / Áncash|021000|020000
+021010|Paucas|Paucas / Huari / Áncash|021000|020000
+021011|Ponto|Ponto / Huari / Áncash|021000|020000
+021012|Rahuapampa|Rahuapampa / Huari / Áncash|021000|020000
+021013|Rapayan|Rapayan / Huari / Áncash|021000|020000
+021014|San Marcos|San Marcos / Huari / Áncash|021000|020000
+021015|San Pedro de Chana|San Pedro de Chana / Huari / Áncash|021000|020000
+021016|Uco|Uco / Huari / Áncash|021000|020000
+021101|Huarmey|Huarmey / Huarmey / Áncash|021100|020000
+021102|Cochapeti|Cochapeti / Huarmey / Áncash|021100|020000
+021103|Culebras|Culebras / Huarmey / Áncash|021100|020000
+021104|Huayan|Huayan / Huarmey / Áncash|021100|020000
+021105|Malvas|Malvas / Huarmey / Áncash|021100|020000
+021201|Caraz|Caraz / Huaylas / Áncash|021200|020000
+021202|Huallanca|Huallanca / Huaylas / Áncash|021200|020000
+021203|Huata|Huata / Huaylas / Áncash|021200|020000
+021204|Huaylas|Huaylas / Huaylas / Áncash|021200|020000
+021205|Mato|Mato / Huaylas / Áncash|021200|020000
+021206|Pamparomas|Pamparomas / Huaylas / Áncash|021200|020000
+021207|Pueblo Libre|Pueblo Libre / Huaylas / Áncash|021200|020000
+021208|Santa Cruz|Santa Cruz / Huaylas / Áncash|021200|020000
+021209|Santo Toribio|Santo Toribio / Huaylas / Áncash|021200|020000
+021210|Yuracmarca|Yuracmarca / Huaylas / Áncash|021200|020000
+021301|Piscobamba|Piscobamba / Mariscal Luzuriaga / Áncash|021300|020000
+021302|Casca|Casca / Mariscal Luzuriaga / Áncash|021300|020000
+021303|Eleazar Guzmán Barron|Eleazar Guzmán Barron / Mariscal Luzuriaga / Áncash|021300|020000
+021304|Fidel Olivas Escudero|Fidel Olivas Escudero / Mariscal Luzuriaga / Áncash|021300|020000
+021305|Llama|Llama / Mariscal Luzuriaga / Áncash|021300|020000
+021306|Llumpa|Llumpa / Mariscal Luzuriaga / Áncash|021300|020000
+021307|Lucma|Lucma / Mariscal Luzuriaga / Áncash|021300|020000
+021308|Musga|Musga / Mariscal Luzuriaga / Áncash|021300|020000
+021401|Ocros|Ocros / Ocros / Áncash|021400|020000
+021402|Acas|Acas / Ocros / Áncash|021400|020000
+021403|Cajamarquilla|Cajamarquilla / Ocros / Áncash|021400|020000
+021404|Carhuapampa|Carhuapampa / Ocros / Áncash|021400|020000
+021405|Cochas|Cochas / Ocros / Áncash|021400|020000
+021406|Congas|Congas / Ocros / Áncash|021400|020000
+021407|Llipa|Llipa / Ocros / Áncash|021400|020000
+021408|San Cristóbal de Rajan|San Cristóbal de Rajan / Ocros / Áncash|021400|020000
+021409|San Pedro|San Pedro / Ocros / Áncash|021400|020000
+021410|Santiago de Chilcas|Santiago de Chilcas / Ocros / Áncash|021400|020000
+021501|Cabana|Cabana / Pallasca / Áncash|021500|020000
+021502|Bolognesi|Bolognesi / Pallasca / Áncash|021500|020000
+021503|Conchucos|Conchucos / Pallasca / Áncash|021500|020000
+021504|Huacaschuque|Huacaschuque / Pallasca / Áncash|021500|020000
+021505|Huandoval|Huandoval / Pallasca / Áncash|021500|020000
+021506|Lacabamba|Lacabamba / Pallasca / Áncash|021500|020000
+021507|Llapo|Llapo / Pallasca / Áncash|021500|020000
+021508|Pallasca|Pallasca / Pallasca / Áncash|021500|020000
+021509|Pampas|Pampas / Pallasca / Áncash|021500|020000
+021510|Santa Rosa|Santa Rosa / Pallasca / Áncash|021500|020000
+021511|Tauca|Tauca / Pallasca / Áncash|021500|020000
+021601|Pomabamba|Pomabamba / Pomabamba / Áncash|021600|020000
+021602|Huayllan|Huayllan / Pomabamba / Áncash|021600|020000
+021603|Parobamba|Parobamba / Pomabamba / Áncash|021600|020000
+021604|Quinuabamba|Quinuabamba / Pomabamba / Áncash|021600|020000
+021701|Recuay|Recuay / Recuay / Áncash|021700|020000
+021702|Catac|Catac / Recuay / Áncash|021700|020000
+021703|Cotaparaco|Cotaparaco / Recuay / Áncash|021700|020000
+021704|Huayllapampa|Huayllapampa / Recuay / Áncash|021700|020000
+021705|Llacllin|Llacllin / Recuay / Áncash|021700|020000
+021706|Marca|Marca / Recuay / Áncash|021700|020000
+021707|Pampas Chico|Pampas Chico / Recuay / Áncash|021700|020000
+021708|Pararin|Pararin / Recuay / Áncash|021700|020000
+021709|Tapacocha|Tapacocha / Recuay / Áncash|021700|020000
+021710|Ticapampa|Ticapampa / Recuay / Áncash|021700|020000
+021801|Chimbote|Chimbote / Santa / Áncash|021800|020000
+021802|Cáceres del Perú|Cáceres del Perú / Santa / Áncash|021800|020000
+021803|Coishco|Coishco / Santa / Áncash|021800|020000
+021804|Macate|Macate / Santa / Áncash|021800|020000
+021805|Moro|Moro / Santa / Áncash|021800|020000
+021806|Nepeña|Nepeña / Santa / Áncash|021800|020000
+021807|Samanco|Samanco / Santa / Áncash|021800|020000
+021808|Santa|Santa / Santa / Áncash|021800|020000
+021809|Nuevo Chimbote|Nuevo Chimbote / Santa / Áncash|021800|020000
+021901|Sihuas|Sihuas / Sihuas / Áncash|021900|020000
+021902|Acobamba|Acobamba / Sihuas / Áncash|021900|020000
+021903|Alfonso Ugarte|Alfonso Ugarte / Sihuas / Áncash|021900|020000
+021904|Cashapampa|Cashapampa / Sihuas / Áncash|021900|020000
+021905|Chingalpo|Chingalpo / Sihuas / Áncash|021900|020000
+021906|Huayllabamba|Huayllabamba / Sihuas / Áncash|021900|020000
+021907|Quiches|Quiches / Sihuas / Áncash|021900|020000
+021908|Ragash|Ragash / Sihuas / Áncash|021900|020000
+021909|San Juan|San Juan / Sihuas / Áncash|021900|020000
+021910|Sicsibamba|Sicsibamba / Sihuas / Áncash|021900|020000
+022001|Yungay|Yungay / Yungay / Áncash|022000|020000
+022002|Cascapara|Cascapara / Yungay / Áncash|022000|020000
+022003|Mancos|Mancos / Yungay / Áncash|022000|020000
+022004|Matacoto|Matacoto / Yungay / Áncash|022000|020000
+022005|Quillo|Quillo / Yungay / Áncash|022000|020000
+022006|Ranrahirca|Ranrahirca / Yungay / Áncash|022000|020000
+022007|Shupluy|Shupluy / Yungay / Áncash|022000|020000
+022008|Yanama|Yanama / Yungay / Áncash|022000|020000
+030101|Abancay|Abancay / Abancay / Apurímac|030100|030000
+030102|Chacoche|Chacoche / Abancay / Apurímac|030100|030000
+030103|Circa|Circa / Abancay / Apurímac|030100|030000
+030104|Curahuasi|Curahuasi / Abancay / Apurímac|030100|030000
+030105|Huanipaca|Huanipaca / Abancay / Apurímac|030100|030000
+030106|Lambrama|Lambrama / Abancay / Apurímac|030100|030000
+030107|Pichirhua|Pichirhua / Abancay / Apurímac|030100|030000
+030108|San Pedro de Cachora|San Pedro de Cachora / Abancay / Apurímac|030100|030000
+030109|Tamburco|Tamburco / Abancay / Apurímac|030100|030000
+030201|Andahuaylas|Andahuaylas / Andahuaylas / Apurímac|030200|030000
+030202|Andarapa|Andarapa / Andahuaylas / Apurímac|030200|030000
+030203|Chiara|Chiara / Andahuaylas / Apurímac|030200|030000
+030204|Huancarama|Huancarama / Andahuaylas / Apurímac|030200|030000
+030205|Huancaray|Huancaray / Andahuaylas / Apurímac|030200|030000
+030206|Huayana|Huayana / Andahuaylas / Apurímac|030200|030000
+030207|Kishuara|Kishuara / Andahuaylas / Apurímac|030200|030000
+030208|Pacobamba|Pacobamba / Andahuaylas / Apurímac|030200|030000
+030209|Pacucha|Pacucha / Andahuaylas / Apurímac|030200|030000
+030210|Pampachiri|Pampachiri / Andahuaylas / Apurímac|030200|030000
+030211|Pomacocha|Pomacocha / Andahuaylas / Apurímac|030200|030000
+030212|San Antonio de Cachi|San Antonio de Cachi / Andahuaylas / Apurímac|030200|030000
+030213|San Jerónimo|San Jerónimo / Andahuaylas / Apurímac|030200|030000
+030214|San Miguel de Chaccrampa|San Miguel de Chaccrampa / Andahuaylas / Apurímac|030200|030000
+030215|Santa María de Chicmo|Santa María de Chicmo / Andahuaylas / Apurímac|030200|030000
+030216|Talavera|Talavera / Andahuaylas / Apurímac|030200|030000
+030217|Tumay Huaraca|Tumay Huaraca / Andahuaylas / Apurímac|030200|030000
+030218|Turpo|Turpo / Andahuaylas / Apurímac|030200|030000
+030219|Kaquiabamba|Kaquiabamba / Andahuaylas / Apurímac|030200|030000
+030220|José María Arguedas|José María Arguedas / Andahuaylas / Apurímac|030200|030000
+030301|Antabamba|Antabamba / Antabamba / Apurímac|030300|030000
+030302|El Oro|El Oro / Antabamba / Apurímac|030300|030000
+030303|Huaquirca|Huaquirca / Antabamba / Apurímac|030300|030000
+030304|Juan Espinoza Medrano|Juan Espinoza Medrano / Antabamba / Apurímac|030300|030000
+030305|Oropesa|Oropesa / Antabamba / Apurímac|030300|030000
+030306|Pachaconas|Pachaconas / Antabamba / Apurímac|030300|030000
+030307|Sabaino|Sabaino / Antabamba / Apurímac|030300|030000
+030401|Chalhuanca|Chalhuanca / Aymaraes / Apurímac|030400|030000
+030402|Capaya|Capaya / Aymaraes / Apurímac|030400|030000
+030403|Caraybamba|Caraybamba / Aymaraes / Apurímac|030400|030000
+030404|Chapimarca|Chapimarca / Aymaraes / Apurímac|030400|030000
+030405|Colcabamba|Colcabamba / Aymaraes / Apurímac|030400|030000
+030406|Cotaruse|Cotaruse / Aymaraes / Apurímac|030400|030000
+030407|Ihuayllo|Ihuayllo / Aymaraes / Apurímac|030400|030000
+030408|Justo Apu Sahuaraura|Justo Apu Sahuaraura / Aymaraes / Apurímac|030400|030000
+030409|Lucre|Lucre / Aymaraes / Apurímac|030400|030000
+030410|Pocohuanca|Pocohuanca / Aymaraes / Apurímac|030400|030000
+030411|San Juan de Chacña|San Juan de Chacña / Aymaraes / Apurímac|030400|030000
+030412|Sañayca|Sañayca / Aymaraes / Apurímac|030400|030000
+030413|Soraya|Soraya / Aymaraes / Apurímac|030400|030000
+030414|Tapairihua|Tapairihua / Aymaraes / Apurímac|030400|030000
+030415|Tintay|Tintay / Aymaraes / Apurímac|030400|030000
+030416|Toraya|Toraya / Aymaraes / Apurímac|030400|030000
+030417|Yanaca|Yanaca / Aymaraes / Apurímac|030400|030000
+030501|Tambobamba|Tambobamba / Cotabambas / Apurímac|030500|030000
+030502|Cotabambas|Cotabambas / Cotabambas / Apurímac|030500|030000
+030503|Coyllurqui|Coyllurqui / Cotabambas / Apurímac|030500|030000
+030504|Haquira|Haquira / Cotabambas / Apurímac|030500|030000
+030505|Mara|Mara / Cotabambas / Apurímac|030500|030000
+030506|Challhuahuacho|Challhuahuacho / Cotabambas / Apurímac|030500|030000
+030601|Chincheros|Chincheros / Chincheros / Apurímac|030600|030000
+030602|Anco_Huallo|Anco_Huallo / Chincheros / Apurímac|030600|030000
+030603|Cocharcas|Cocharcas / Chincheros / Apurímac|030600|030000
+030604|Huaccana|Huaccana / Chincheros / Apurímac|030600|030000
+030605|Ocobamba|Ocobamba / Chincheros / Apurímac|030600|030000
+030606|Ongoy|Ongoy / Chincheros / Apurímac|030600|030000
+030607|Uranmarca|Uranmarca / Chincheros / Apurímac|030600|030000
+030608|Ranracancha|Ranracancha / Chincheros / Apurímac|030600|030000
+030609|Rocchacc|Rocchacc / Chincheros / Apurímac|030600|030000
+030610|El Porvenir|El Porvenir / Chincheros / Apurímac|030600|030000
+030611|Los Chankas|Los Chankas / Chincheros / Apurímac|030600|030000
+030701|Chuquibambilla|Chuquibambilla / Grau / Apurímac|030700|030000
+030702|Curpahuasi|Curpahuasi / Grau / Apurímac|030700|030000
+030703|Gamarra|Gamarra / Grau / Apurímac|030700|030000
+030704|Huayllati|Huayllati / Grau / Apurímac|030700|030000
+030705|Mamara|Mamara / Grau / Apurímac|030700|030000
+030706|Micaela Bastidas|Micaela Bastidas / Grau / Apurímac|030700|030000
+030707|Pataypampa|Pataypampa / Grau / Apurímac|030700|030000
+030708|Progreso|Progreso / Grau / Apurímac|030700|030000
+030709|San Antonio|San Antonio / Grau / Apurímac|030700|030000
+030710|Santa Rosa|Santa Rosa / Grau / Apurímac|030700|030000
+030711|Turpay|Turpay / Grau / Apurímac|030700|030000
+030712|Vilcabamba|Vilcabamba / Grau / Apurímac|030700|030000
+030713|Virundo|Virundo / Grau / Apurímac|030700|030000
+030714|Curasco|Curasco / Grau / Apurímac|030700|030000
+040101|Arequipa|Arequipa / Arequipa / Arequipa|040100|040000
+040102|Alto Selva Alegre|Alto Selva Alegre / Arequipa / Arequipa|040100|040000
+040103|Cayma|Cayma / Arequipa / Arequipa|040100|040000
+040104|Cerro Colorado|Cerro Colorado / Arequipa / Arequipa|040100|040000
+040105|Characato|Characato / Arequipa / Arequipa|040100|040000
+040106|Chiguata|Chiguata / Arequipa / Arequipa|040100|040000
+040107|Jacobo Hunter|Jacobo Hunter / Arequipa / Arequipa|040100|040000
+040108|La Joya|La Joya / Arequipa / Arequipa|040100|040000
+040109|Mariano Melgar|Mariano Melgar / Arequipa / Arequipa|040100|040000
+040110|Miraflores|Miraflores / Arequipa / Arequipa|040100|040000
+040111|Mollebaya|Mollebaya / Arequipa / Arequipa|040100|040000
+040112|Paucarpata|Paucarpata / Arequipa / Arequipa|040100|040000
+040113|Pocsi|Pocsi / Arequipa / Arequipa|040100|040000
+040114|Polobaya|Polobaya / Arequipa / Arequipa|040100|040000
+040115|Quequeña|Quequeña / Arequipa / Arequipa|040100|040000
+040116|Sabandia|Sabandia / Arequipa / Arequipa|040100|040000
+040117|Sachaca|Sachaca / Arequipa / Arequipa|040100|040000
+040118|San Juan de Siguas|San Juan de Siguas / Arequipa / Arequipa|040100|040000
+040119|San Juan de Tarucani|San Juan de Tarucani / Arequipa / Arequipa|040100|040000
+040120|Santa Isabel de Siguas|Santa Isabel de Siguas / Arequipa / Arequipa|040100|040000
+040121|Santa Rita de Siguas|Santa Rita de Siguas / Arequipa / Arequipa|040100|040000
+040122|Socabaya|Socabaya / Arequipa / Arequipa|040100|040000
+040123|Tiabaya|Tiabaya / Arequipa / Arequipa|040100|040000
+040124|Uchumayo|Uchumayo / Arequipa / Arequipa|040100|040000
+040125|Vitor|Vitor / Arequipa / Arequipa|040100|040000
+040126|Yanahuara|Yanahuara / Arequipa / Arequipa|040100|040000
+040127|Yarabamba|Yarabamba / Arequipa / Arequipa|040100|040000
+040128|Yura|Yura / Arequipa / Arequipa|040100|040000
+040129|José Luis Bustamante Y Rivero|José Luis Bustamante Y Rivero / Arequipa / Arequipa|040100|040000
+040201|Camaná|Camaná / Camaná / Arequipa|040200|040000
+040202|José María Quimper|José María Quimper / Camaná / Arequipa|040200|040000
+040203|Mariano Nicolás Valcárcel|Mariano Nicolás Valcárcel / Camaná / Arequipa|040200|040000
+040204|Mariscal Cáceres|Mariscal Cáceres / Camaná / Arequipa|040200|040000
+040205|Nicolás de Pierola|Nicolás de Pierola / Camaná / Arequipa|040200|040000
+040206|Ocoña|Ocoña / Camaná / Arequipa|040200|040000
+040207|Quilca|Quilca / Camaná / Arequipa|040200|040000
+040208|Samuel Pastor|Samuel Pastor / Camaná / Arequipa|040200|040000
+040301|Caravelí|Caravelí / Caravelí / Arequipa|040300|040000
+040302|Acarí|Acarí / Caravelí / Arequipa|040300|040000
+040303|Atico|Atico / Caravelí / Arequipa|040300|040000
+040304|Atiquipa|Atiquipa / Caravelí / Arequipa|040300|040000
+040305|Bella Unión|Bella Unión / Caravelí / Arequipa|040300|040000
+040306|Cahuacho|Cahuacho / Caravelí / Arequipa|040300|040000
+040307|Chala|Chala / Caravelí / Arequipa|040300|040000
+040308|Chaparra|Chaparra / Caravelí / Arequipa|040300|040000
+040309|Huanuhuanu|Huanuhuanu / Caravelí / Arequipa|040300|040000
+040310|Jaqui|Jaqui / Caravelí / Arequipa|040300|040000
+040311|Lomas|Lomas / Caravelí / Arequipa|040300|040000
+040312|Quicacha|Quicacha / Caravelí / Arequipa|040300|040000
+040313|Yauca|Yauca / Caravelí / Arequipa|040300|040000
+040401|Aplao|Aplao / Castilla / Arequipa|040400|040000
+040402|Andagua|Andagua / Castilla / Arequipa|040400|040000
+040403|Ayo|Ayo / Castilla / Arequipa|040400|040000
+040404|Chachas|Chachas / Castilla / Arequipa|040400|040000
+040405|Chilcaymarca|Chilcaymarca / Castilla / Arequipa|040400|040000
+040406|Choco|Choco / Castilla / Arequipa|040400|040000
+040407|Huancarqui|Huancarqui / Castilla / Arequipa|040400|040000
+040408|Machaguay|Machaguay / Castilla / Arequipa|040400|040000
+040409|Orcopampa|Orcopampa / Castilla / Arequipa|040400|040000
+040410|Pampacolca|Pampacolca / Castilla / Arequipa|040400|040000
+040411|Tipan|Tipan / Castilla / Arequipa|040400|040000
+040412|Uñon|Uñon / Castilla / Arequipa|040400|040000
+040413|Uraca|Uraca / Castilla / Arequipa|040400|040000
+040414|Viraco|Viraco / Castilla / Arequipa|040400|040000
+040501|Chivay|Chivay / Caylloma / Arequipa|040500|040000
+040502|Achoma|Achoma / Caylloma / Arequipa|040500|040000
+040503|Cabanaconde|Cabanaconde / Caylloma / Arequipa|040500|040000
+040504|Callalli|Callalli / Caylloma / Arequipa|040500|040000
+040505|Caylloma|Caylloma / Caylloma / Arequipa|040500|040000
+040506|Coporaque|Coporaque / Caylloma / Arequipa|040500|040000
+040507|Huambo|Huambo / Caylloma / Arequipa|040500|040000
+040508|Huanca|Huanca / Caylloma / Arequipa|040500|040000
+040509|Ichupampa|Ichupampa / Caylloma / Arequipa|040500|040000
+040510|Lari|Lari / Caylloma / Arequipa|040500|040000
+040511|Lluta|Lluta / Caylloma / Arequipa|040500|040000
+040512|Maca|Maca / Caylloma / Arequipa|040500|040000
+040513|Madrigal|Madrigal / Caylloma / Arequipa|040500|040000
+040514|San Antonio de Chuca|San Antonio de Chuca / Caylloma / Arequipa|040500|040000
+040515|Sibayo|Sibayo / Caylloma / Arequipa|040500|040000
+040516|Tapay|Tapay / Caylloma / Arequipa|040500|040000
+040517|Tisco|Tisco / Caylloma / Arequipa|040500|040000
+040518|Tuti|Tuti / Caylloma / Arequipa|040500|040000
+040519|Yanque|Yanque / Caylloma / Arequipa|040500|040000
+040520|Majes|Majes / Caylloma / Arequipa|040500|040000
+040601|Chuquibamba|Chuquibamba / Condesuyos / Arequipa|040600|040000
+040602|Andaray|Andaray / Condesuyos / Arequipa|040600|040000
+040603|Cayarani|Cayarani / Condesuyos / Arequipa|040600|040000
+040604|Chichas|Chichas / Condesuyos / Arequipa|040600|040000
+040605|Iray|Iray / Condesuyos / Arequipa|040600|040000
+040606|Río Grande|Río Grande / Condesuyos / Arequipa|040600|040000
+040607|Salamanca|Salamanca / Condesuyos / Arequipa|040600|040000
+040608|Yanaquihua|Yanaquihua / Condesuyos / Arequipa|040600|040000
+040701|Mollendo|Mollendo / Islay / Arequipa|040700|040000
+040702|Cocachacra|Cocachacra / Islay / Arequipa|040700|040000
+040703|Dean Valdivia|Dean Valdivia / Islay / Arequipa|040700|040000
+040704|Islay|Islay / Islay / Arequipa|040700|040000
+040705|Mejia|Mejia / Islay / Arequipa|040700|040000
+040706|Punta de Bombón|Punta de Bombón / Islay / Arequipa|040700|040000
+040801|Cotahuasi|Cotahuasi / La Uniòn / Arequipa|040800|040000
+040802|Alca|Alca / La Uniòn / Arequipa|040800|040000
+040803|Charcana|Charcana / La Uniòn / Arequipa|040800|040000
+040804|Huaynacotas|Huaynacotas / La Uniòn / Arequipa|040800|040000
+040805|Pampamarca|Pampamarca / La Uniòn / Arequipa|040800|040000
+040806|Puyca|Puyca / La Uniòn / Arequipa|040800|040000
+040807|Quechualla|Quechualla / La Uniòn / Arequipa|040800|040000
+040808|Sayla|Sayla / La Uniòn / Arequipa|040800|040000
+040809|Tauria|Tauria / La Uniòn / Arequipa|040800|040000
+040810|Tomepampa|Tomepampa / La Uniòn / Arequipa|040800|040000
+040811|Toro|Toro / La Uniòn / Arequipa|040800|040000
+050101|Ayacucho|Ayacucho / Huamanga / Ayacucho|050100|050000
+050102|Acocro|Acocro / Huamanga / Ayacucho|050100|050000
+050103|Acos Vinchos|Acos Vinchos / Huamanga / Ayacucho|050100|050000
+050104|Carmen Alto|Carmen Alto / Huamanga / Ayacucho|050100|050000
+050105|Chiara|Chiara / Huamanga / Ayacucho|050100|050000
+050106|Ocros|Ocros / Huamanga / Ayacucho|050100|050000
+050107|Pacaycasa|Pacaycasa / Huamanga / Ayacucho|050100|050000
+050108|Quinua|Quinua / Huamanga / Ayacucho|050100|050000
+050109|San José de Ticllas|San José de Ticllas / Huamanga / Ayacucho|050100|050000
+050110|San Juan Bautista|San Juan Bautista / Huamanga / Ayacucho|050100|050000
+050111|Santiago de Pischa|Santiago de Pischa / Huamanga / Ayacucho|050100|050000
+050112|Socos|Socos / Huamanga / Ayacucho|050100|050000
+050113|Tambillo|Tambillo / Huamanga / Ayacucho|050100|050000
+050114|Vinchos|Vinchos / Huamanga / Ayacucho|050100|050000
+050115|Jesús Nazareno|Jesús Nazareno / Huamanga / Ayacucho|050100|050000
+050116|Andrés Avelino Cáceres Dorregaray|Andrés Avelino Cáceres Dorregaray / Huamanga / Ayacucho|050100|050000
+050201|Cangallo|Cangallo / Cangallo / Ayacucho|050200|050000
+050202|Chuschi|Chuschi / Cangallo / Ayacucho|050200|050000
+050203|Los Morochucos|Los Morochucos / Cangallo / Ayacucho|050200|050000
+050204|María Parado de Bellido|María Parado de Bellido / Cangallo / Ayacucho|050200|050000
+050205|Paras|Paras / Cangallo / Ayacucho|050200|050000
+050206|Totos|Totos / Cangallo / Ayacucho|050200|050000
+050301|Sancos|Sancos / Huanca Sancos / Ayacucho|050300|050000
+050302|Carapo|Carapo / Huanca Sancos / Ayacucho|050300|050000
+050303|Sacsamarca|Sacsamarca / Huanca Sancos / Ayacucho|050300|050000
+050304|Santiago de Lucanamarca|Santiago de Lucanamarca / Huanca Sancos / Ayacucho|050300|050000
+050401|Huanta|Huanta / Huanta / Ayacucho|050400|050000
+050402|Ayahuanco|Ayahuanco / Huanta / Ayacucho|050400|050000
+050403|Huamanguilla|Huamanguilla / Huanta / Ayacucho|050400|050000
+050404|Iguain|Iguain / Huanta / Ayacucho|050400|050000
+050405|Luricocha|Luricocha / Huanta / Ayacucho|050400|050000
+050406|Santillana|Santillana / Huanta / Ayacucho|050400|050000
+050407|Sivia|Sivia / Huanta / Ayacucho|050400|050000
+050408|Llochegua|Llochegua / Huanta / Ayacucho|050400|050000
+050409|Canayre|Canayre / Huanta / Ayacucho|050400|050000
+050410|Uchuraccay|Uchuraccay / Huanta / Ayacucho|050400|050000
+050411|Pucacolpa|Pucacolpa / Huanta / Ayacucho|050400|050000
+050412|Chaca|Chaca / Huanta / Ayacucho|050400|050000
+050501|San Miguel|San Miguel / La Mar / Ayacucho|050500|050000
+050502|Anco|Anco / La Mar / Ayacucho|050500|050000
+050503|Ayna|Ayna / La Mar / Ayacucho|050500|050000
+050504|Chilcas|Chilcas / La Mar / Ayacucho|050500|050000
+050505|Chungui|Chungui / La Mar / Ayacucho|050500|050000
+050506|Luis Carranza|Luis Carranza / La Mar / Ayacucho|050500|050000
+050507|Santa Rosa|Santa Rosa / La Mar / Ayacucho|050500|050000
+050508|Tambo|Tambo / La Mar / Ayacucho|050500|050000
+050509|Samugari|Samugari / La Mar / Ayacucho|050500|050000
+050510|Anchihuay|Anchihuay / La Mar / Ayacucho|050500|050000
+050511|Oronccoy|Oronccoy / La Mar / Ayacucho|050500|050000
+050601|Puquio|Puquio / Lucanas / Ayacucho|050600|050000
+050602|Aucara|Aucara / Lucanas / Ayacucho|050600|050000
+050603|Cabana|Cabana / Lucanas / Ayacucho|050600|050000
+050604|Carmen Salcedo|Carmen Salcedo / Lucanas / Ayacucho|050600|050000
+050605|Chaviña|Chaviña / Lucanas / Ayacucho|050600|050000
+050606|Chipao|Chipao / Lucanas / Ayacucho|050600|050000
+050607|Huac-Huas|Huac-Huas / Lucanas / Ayacucho|050600|050000
+050608|Laramate|Laramate / Lucanas / Ayacucho|050600|050000
+050609|Leoncio Prado|Leoncio Prado / Lucanas / Ayacucho|050600|050000
+050610|Llauta|Llauta / Lucanas / Ayacucho|050600|050000
+050611|Lucanas|Lucanas / Lucanas / Ayacucho|050600|050000
+050612|Ocaña|Ocaña / Lucanas / Ayacucho|050600|050000
+050613|Otoca|Otoca / Lucanas / Ayacucho|050600|050000
+050614|Saisa|Saisa / Lucanas / Ayacucho|050600|050000
+050615|San Cristóbal|San Cristóbal / Lucanas / Ayacucho|050600|050000
+050616|San Juan|San Juan / Lucanas / Ayacucho|050600|050000
+050617|San Pedro|San Pedro / Lucanas / Ayacucho|050600|050000
+050618|San Pedro de Palco|San Pedro de Palco / Lucanas / Ayacucho|050600|050000
+050619|Sancos|Sancos / Lucanas / Ayacucho|050600|050000
+050620|Santa Ana de Huaycahuacho|Santa Ana de Huaycahuacho / Lucanas / Ayacucho|050600|050000
+050621|Santa Lucia|Santa Lucia / Lucanas / Ayacucho|050600|050000
+050701|Coracora|Coracora / Parinacochas / Ayacucho|050700|050000
+050702|Chumpi|Chumpi / Parinacochas / Ayacucho|050700|050000
+050703|Coronel Castañeda|Coronel Castañeda / Parinacochas / Ayacucho|050700|050000
+050704|Pacapausa|Pacapausa / Parinacochas / Ayacucho|050700|050000
+050705|Pullo|Pullo / Parinacochas / Ayacucho|050700|050000
+050706|Puyusca|Puyusca / Parinacochas / Ayacucho|050700|050000
+050707|San Francisco de Ravacayco|San Francisco de Ravacayco / Parinacochas / Ayacucho|050700|050000
+050708|Upahuacho|Upahuacho / Parinacochas / Ayacucho|050700|050000
+050801|Pausa|Pausa / Pàucar del Sara Sara / Ayacucho|050800|050000
+050802|Colta|Colta / Pàucar del Sara Sara / Ayacucho|050800|050000
+050803|Corculla|Corculla / Pàucar del Sara Sara / Ayacucho|050800|050000
+050804|Lampa|Lampa / Pàucar del Sara Sara / Ayacucho|050800|050000
+050805|Marcabamba|Marcabamba / Pàucar del Sara Sara / Ayacucho|050800|050000
+050806|Oyolo|Oyolo / Pàucar del Sara Sara / Ayacucho|050800|050000
+050807|Pararca|Pararca / Pàucar del Sara Sara / Ayacucho|050800|050000
+050808|San Javier de Alpabamba|San Javier de Alpabamba / Pàucar del Sara Sara / Ayacucho|050800|050000
+050809|San José de Ushua|San José de Ushua / Pàucar del Sara Sara / Ayacucho|050800|050000
+050810|Sara Sara|Sara Sara / Pàucar del Sara Sara / Ayacucho|050800|050000
+050901|Querobamba|Querobamba / Sucre / Ayacucho|050900|050000
+050902|Belén|Belén / Sucre / Ayacucho|050900|050000
+050903|Chalcos|Chalcos / Sucre / Ayacucho|050900|050000
+050904|Chilcayoc|Chilcayoc / Sucre / Ayacucho|050900|050000
+050905|Huacaña|Huacaña / Sucre / Ayacucho|050900|050000
+050906|Morcolla|Morcolla / Sucre / Ayacucho|050900|050000
+050907|Paico|Paico / Sucre / Ayacucho|050900|050000
+050908|San Pedro de Larcay|San Pedro de Larcay / Sucre / Ayacucho|050900|050000
+050909|San Salvador de Quije|San Salvador de Quije / Sucre / Ayacucho|050900|050000
+050910|Santiago de Paucaray|Santiago de Paucaray / Sucre / Ayacucho|050900|050000
+050911|Soras|Soras / Sucre / Ayacucho|050900|050000
+051001|Huancapi|Huancapi / Víctor Fajardo / Ayacucho|051000|050000
+051002|Alcamenca|Alcamenca / Víctor Fajardo / Ayacucho|051000|050000
+051003|Apongo|Apongo / Víctor Fajardo / Ayacucho|051000|050000
+051004|Asquipata|Asquipata / Víctor Fajardo / Ayacucho|051000|050000
+051005|Canaria|Canaria / Víctor Fajardo / Ayacucho|051000|050000
+051006|Cayara|Cayara / Víctor Fajardo / Ayacucho|051000|050000
+051007|Colca|Colca / Víctor Fajardo / Ayacucho|051000|050000
+051008|Huamanquiquia|Huamanquiquia / Víctor Fajardo / Ayacucho|051000|050000
+051009|Huancaraylla|Huancaraylla / Víctor Fajardo / Ayacucho|051000|050000
+051010|Huaya|Huaya / Víctor Fajardo / Ayacucho|051000|050000
+051011|Sarhua|Sarhua / Víctor Fajardo / Ayacucho|051000|050000
+051012|Vilcanchos|Vilcanchos / Víctor Fajardo / Ayacucho|051000|050000
+051101|Vilcas Huaman|Vilcas Huaman / Vilcas Huamán / Ayacucho|051100|050000
+051102|Accomarca|Accomarca / Vilcas Huamán / Ayacucho|051100|050000
+051103|Carhuanca|Carhuanca / Vilcas Huamán / Ayacucho|051100|050000
+051104|Concepción|Concepción / Vilcas Huamán / Ayacucho|051100|050000
+051105|Huambalpa|Huambalpa / Vilcas Huamán / Ayacucho|051100|050000
+051106|Independencia|Independencia / Vilcas Huamán / Ayacucho|051100|050000
+051107|Saurama|Saurama / Vilcas Huamán / Ayacucho|051100|050000
+051108|Vischongo|Vischongo / Vilcas Huamán / Ayacucho|051100|050000
+060101|Cajamarca|Cajamarca / Cajamarca / Cajamarca|060100|060000
+060102|Asunción|Asunción / Cajamarca / Cajamarca|060100|060000
+060103|Chetilla|Chetilla / Cajamarca / Cajamarca|060100|060000
+060104|Cospan|Cospan / Cajamarca / Cajamarca|060100|060000
+060105|Encañada|Encañada / Cajamarca / Cajamarca|060100|060000
+060106|Jesús|Jesús / Cajamarca / Cajamarca|060100|060000
+060107|Llacanora|Llacanora / Cajamarca / Cajamarca|060100|060000
+060108|Los Baños del Inca|Los Baños del Inca / Cajamarca / Cajamarca|060100|060000
+060109|Magdalena|Magdalena / Cajamarca / Cajamarca|060100|060000
+060110|Matara|Matara / Cajamarca / Cajamarca|060100|060000
+060111|Namora|Namora / Cajamarca / Cajamarca|060100|060000
+060112|San Juan|San Juan / Cajamarca / Cajamarca|060100|060000
+060201|Cajabamba|Cajabamba / Cajabamba / Cajamarca|060200|060000
+060202|Cachachi|Cachachi / Cajabamba / Cajamarca|060200|060000
+060203|Condebamba|Condebamba / Cajabamba / Cajamarca|060200|060000
+060204|Sitacocha|Sitacocha / Cajabamba / Cajamarca|060200|060000
+060301|Celendín|Celendín / Celendín / Cajamarca|060300|060000
+060302|Chumuch|Chumuch / Celendín / Cajamarca|060300|060000
+060303|Cortegana|Cortegana / Celendín / Cajamarca|060300|060000
+060304|Huasmin|Huasmin / Celendín / Cajamarca|060300|060000
+060305|Jorge Chávez|Jorge Chávez / Celendín / Cajamarca|060300|060000
+060306|José Gálvez|José Gálvez / Celendín / Cajamarca|060300|060000
+060307|Miguel Iglesias|Miguel Iglesias / Celendín / Cajamarca|060300|060000
+060308|Oxamarca|Oxamarca / Celendín / Cajamarca|060300|060000
+060309|Sorochuco|Sorochuco / Celendín / Cajamarca|060300|060000
+060310|Sucre|Sucre / Celendín / Cajamarca|060300|060000
+060311|Utco|Utco / Celendín / Cajamarca|060300|060000
+060312|La Libertad de Pallan|La Libertad de Pallan / Celendín / Cajamarca|060300|060000
+060401|Chota|Chota / Chota / Cajamarca|060400|060000
+060402|Anguia|Anguia / Chota / Cajamarca|060400|060000
+060403|Chadin|Chadin / Chota / Cajamarca|060400|060000
+060404|Chiguirip|Chiguirip / Chota / Cajamarca|060400|060000
+060405|Chimban|Chimban / Chota / Cajamarca|060400|060000
+060406|Choropampa|Choropampa / Chota / Cajamarca|060400|060000
+060407|Cochabamba|Cochabamba / Chota / Cajamarca|060400|060000
+060408|Conchan|Conchan / Chota / Cajamarca|060400|060000
+060409|Huambos|Huambos / Chota / Cajamarca|060400|060000
+060410|Lajas|Lajas / Chota / Cajamarca|060400|060000
+060411|Llama|Llama / Chota / Cajamarca|060400|060000
+060412|Miracosta|Miracosta / Chota / Cajamarca|060400|060000
+060413|Paccha|Paccha / Chota / Cajamarca|060400|060000
+060414|Pion|Pion / Chota / Cajamarca|060400|060000
+060415|Querocoto|Querocoto / Chota / Cajamarca|060400|060000
+060416|San Juan de Licupis|San Juan de Licupis / Chota / Cajamarca|060400|060000
+060417|Tacabamba|Tacabamba / Chota / Cajamarca|060400|060000
+060418|Tocmoche|Tocmoche / Chota / Cajamarca|060400|060000
+060419|Chalamarca|Chalamarca / Chota / Cajamarca|060400|060000
+060501|Contumaza|Contumaza / Contumazá / Cajamarca|060500|060000
+060502|Chilete|Chilete / Contumazá / Cajamarca|060500|060000
+060503|Cupisnique|Cupisnique / Contumazá / Cajamarca|060500|060000
+060504|Guzmango|Guzmango / Contumazá / Cajamarca|060500|060000
+060505|San Benito|San Benito / Contumazá / Cajamarca|060500|060000
+060506|Santa Cruz de Toledo|Santa Cruz de Toledo / Contumazá / Cajamarca|060500|060000
+060507|Tantarica|Tantarica / Contumazá / Cajamarca|060500|060000
+060508|Yonan|Yonan / Contumazá / Cajamarca|060500|060000
+060601|Cutervo|Cutervo / Cutervo / Cajamarca|060600|060000
+060602|Callayuc|Callayuc / Cutervo / Cajamarca|060600|060000
+060603|Choros|Choros / Cutervo / Cajamarca|060600|060000
+060604|Cujillo|Cujillo / Cutervo / Cajamarca|060600|060000
+060605|La Ramada|La Ramada / Cutervo / Cajamarca|060600|060000
+060606|Pimpingos|Pimpingos / Cutervo / Cajamarca|060600|060000
+060607|Querocotillo|Querocotillo / Cutervo / Cajamarca|060600|060000
+060608|San Andrés de Cutervo|San Andrés de Cutervo / Cutervo / Cajamarca|060600|060000
+060609|San Juan de Cutervo|San Juan de Cutervo / Cutervo / Cajamarca|060600|060000
+060610|San Luis de Lucma|San Luis de Lucma / Cutervo / Cajamarca|060600|060000
+060611|Santa Cruz|Santa Cruz / Cutervo / Cajamarca|060600|060000
+060612|Santo Domingo de la Capilla|Santo Domingo de la Capilla / Cutervo / Cajamarca|060600|060000
+060613|Santo Tomas|Santo Tomas / Cutervo / Cajamarca|060600|060000
+060614|Socota|Socota / Cutervo / Cajamarca|060600|060000
+060615|Toribio Casanova|Toribio Casanova / Cutervo / Cajamarca|060600|060000
+060701|Bambamarca|Bambamarca / Hualgayoc / Cajamarca|060700|060000
+060702|Chugur|Chugur / Hualgayoc / Cajamarca|060700|060000
+060703|Hualgayoc|Hualgayoc / Hualgayoc / Cajamarca|060700|060000
+060801|Jaén|Jaén / Jaén / Cajamarca|060800|060000
+060802|Bellavista|Bellavista / Jaén / Cajamarca|060800|060000
+060803|Chontali|Chontali / Jaén / Cajamarca|060800|060000
+060804|Colasay|Colasay / Jaén / Cajamarca|060800|060000
+060805|Huabal|Huabal / Jaén / Cajamarca|060800|060000
+060806|Las Pirias|Las Pirias / Jaén / Cajamarca|060800|060000
+060807|Pomahuaca|Pomahuaca / Jaén / Cajamarca|060800|060000
+060808|Pucara|Pucara / Jaén / Cajamarca|060800|060000
+060809|Sallique|Sallique / Jaén / Cajamarca|060800|060000
+060810|San Felipe|San Felipe / Jaén / Cajamarca|060800|060000
+060811|San José del Alto|San José del Alto / Jaén / Cajamarca|060800|060000
+060812|Santa Rosa|Santa Rosa / Jaén / Cajamarca|060800|060000
+060901|San Ignacio|San Ignacio / San Ignacio / Cajamarca|060900|060000
+060902|Chirinos|Chirinos / San Ignacio / Cajamarca|060900|060000
+060903|Huarango|Huarango / San Ignacio / Cajamarca|060900|060000
+060904|La Coipa|La Coipa / San Ignacio / Cajamarca|060900|060000
+060905|Namballe|Namballe / San Ignacio / Cajamarca|060900|060000
+060906|San José de Lourdes|San José de Lourdes / San Ignacio / Cajamarca|060900|060000
+060907|Tabaconas|Tabaconas / San Ignacio / Cajamarca|060900|060000
+061001|Pedro Gálvez|Pedro Gálvez / San Marcos / Cajamarca|061000|060000
+061002|Chancay|Chancay / San Marcos / Cajamarca|061000|060000
+061003|Eduardo Villanueva|Eduardo Villanueva / San Marcos / Cajamarca|061000|060000
+061004|Gregorio Pita|Gregorio Pita / San Marcos / Cajamarca|061000|060000
+061005|Ichocan|Ichocan / San Marcos / Cajamarca|061000|060000
+061006|José Manuel Quiroz|José Manuel Quiroz / San Marcos / Cajamarca|061000|060000
+061007|José Sabogal|José Sabogal / San Marcos / Cajamarca|061000|060000
+061101|San Miguel|San Miguel / San Miguel / Cajamarca|061100|060000
+061102|Bolívar|Bolívar / San Miguel / Cajamarca|061100|060000
+061103|Calquis|Calquis / San Miguel / Cajamarca|061100|060000
+061104|Catilluc|Catilluc / San Miguel / Cajamarca|061100|060000
+061105|El Prado|El Prado / San Miguel / Cajamarca|061100|060000
+061106|La Florida|La Florida / San Miguel / Cajamarca|061100|060000
+061107|Llapa|Llapa / San Miguel / Cajamarca|061100|060000
+061108|Nanchoc|Nanchoc / San Miguel / Cajamarca|061100|060000
+061109|Niepos|Niepos / San Miguel / Cajamarca|061100|060000
+061110|San Gregorio|San Gregorio / San Miguel / Cajamarca|061100|060000
+061111|San Silvestre de Cochan|San Silvestre de Cochan / San Miguel / Cajamarca|061100|060000
+061112|Tongod|Tongod / San Miguel / Cajamarca|061100|060000
+061113|Unión Agua Blanca|Unión Agua Blanca / San Miguel / Cajamarca|061100|060000
+061201|San Pablo|San Pablo / San Pablo / Cajamarca|061200|060000
+061202|San Bernardino|San Bernardino / San Pablo / Cajamarca|061200|060000
+061203|San Luis|San Luis / San Pablo / Cajamarca|061200|060000
+061204|Tumbaden|Tumbaden / San Pablo / Cajamarca|061200|060000
+061301|Santa Cruz|Santa Cruz / Santa Cruz / Cajamarca|061300|060000
+061302|Andabamba|Andabamba / Santa Cruz / Cajamarca|061300|060000
+061303|Catache|Catache / Santa Cruz / Cajamarca|061300|060000
+061304|Chancaybaños|Chancaybaños / Santa Cruz / Cajamarca|061300|060000
+061305|La Esperanza|La Esperanza / Santa Cruz / Cajamarca|061300|060000
+061306|Ninabamba|Ninabamba / Santa Cruz / Cajamarca|061300|060000
+061307|Pulan|Pulan / Santa Cruz / Cajamarca|061300|060000
+061308|Saucepampa|Saucepampa / Santa Cruz / Cajamarca|061300|060000
+061309|Sexi|Sexi / Santa Cruz / Cajamarca|061300|060000
+061310|Uticyacu|Uticyacu / Santa Cruz / Cajamarca|061300|060000
+061311|Yauyucan|Yauyucan / Santa Cruz / Cajamarca|061300|060000
+070101|Callao|Callao / Prov. Const. del Callao / Callao|070100|070000
+070102|Bellavista|Bellavista / Prov. Const. del Callao / Callao|070100|070000
+070103|Carmen de la Legua Reynoso|Carmen de la Legua Reynoso / Prov. Const. del Callao / Callao|070100|070000
+070104|La Perla|La Perla / Prov. Const. del Callao / Callao|070100|070000
+070105|La Punta|La Punta / Prov. Const. del Callao / Callao|070100|070000
+070106|Ventanilla|Ventanilla / Prov. Const. del Callao / Callao|070100|070000
+070107|Mi Perú|Mi Perú / Prov. Const. del Callao / Callao|070100|070000
+080101|Cusco|Cusco / Cusco / Cusco|080100|080000
+080102|Ccorca|Ccorca / Cusco / Cusco|080100|080000
+080103|Poroy|Poroy / Cusco / Cusco|080100|080000
+080104|San Jerónimo|San Jerónimo / Cusco / Cusco|080100|080000
+080105|San Sebastian|San Sebastian / Cusco / Cusco|080100|080000
+080106|Santiago|Santiago / Cusco / Cusco|080100|080000
+080107|Saylla|Saylla / Cusco / Cusco|080100|080000
+080108|Wanchaq|Wanchaq / Cusco / Cusco|080100|080000
+080201|Acomayo|Acomayo / Acomayo / Cusco|080200|080000
+080202|Acopia|Acopia / Acomayo / Cusco|080200|080000
+080203|Acos|Acos / Acomayo / Cusco|080200|080000
+080204|Mosoc Llacta|Mosoc Llacta / Acomayo / Cusco|080200|080000
+080205|Pomacanchi|Pomacanchi / Acomayo / Cusco|080200|080000
+080206|Rondocan|Rondocan / Acomayo / Cusco|080200|080000
+080207|Sangarara|Sangarara / Acomayo / Cusco|080200|080000
+080301|Anta|Anta / Anta / Cusco|080300|080000
+080302|Ancahuasi|Ancahuasi / Anta / Cusco|080300|080000
+080303|Cachimayo|Cachimayo / Anta / Cusco|080300|080000
+080304|Chinchaypujio|Chinchaypujio / Anta / Cusco|080300|080000
+080305|Huarocondo|Huarocondo / Anta / Cusco|080300|080000
+080306|Limatambo|Limatambo / Anta / Cusco|080300|080000
+080307|Mollepata|Mollepata / Anta / Cusco|080300|080000
+080308|Pucyura|Pucyura / Anta / Cusco|080300|080000
+080309|Zurite|Zurite / Anta / Cusco|080300|080000
+080401|Calca|Calca / Calca / Cusco|080400|080000
+080402|Coya|Coya / Calca / Cusco|080400|080000
+080403|Lamay|Lamay / Calca / Cusco|080400|080000
+080404|Lares|Lares / Calca / Cusco|080400|080000
+080405|Pisac|Pisac / Calca / Cusco|080400|080000
+080406|San Salvador|San Salvador / Calca / Cusco|080400|080000
+080407|Taray|Taray / Calca / Cusco|080400|080000
+080408|Yanatile|Yanatile / Calca / Cusco|080400|080000
+080501|Yanaoca|Yanaoca / Canas / Cusco|080500|080000
+080502|Checca|Checca / Canas / Cusco|080500|080000
+080503|Kunturkanki|Kunturkanki / Canas / Cusco|080500|080000
+080504|Langui|Langui / Canas / Cusco|080500|080000
+080505|Layo|Layo / Canas / Cusco|080500|080000
+080506|Pampamarca|Pampamarca / Canas / Cusco|080500|080000
+080507|Quehue|Quehue / Canas / Cusco|080500|080000
+080508|Tupac Amaru|Tupac Amaru / Canas / Cusco|080500|080000
+080601|Sicuani|Sicuani / Canchis / Cusco|080600|080000
+080602|Checacupe|Checacupe / Canchis / Cusco|080600|080000
+080603|Combapata|Combapata / Canchis / Cusco|080600|080000
+080604|Marangani|Marangani / Canchis / Cusco|080600|080000
+080605|Pitumarca|Pitumarca / Canchis / Cusco|080600|080000
+080606|San Pablo|San Pablo / Canchis / Cusco|080600|080000
+080607|San Pedro|San Pedro / Canchis / Cusco|080600|080000
+080608|Tinta|Tinta / Canchis / Cusco|080600|080000
+080701|Santo Tomas|Santo Tomas / Chumbivilcas / Cusco|080700|080000
+080702|Capacmarca|Capacmarca / Chumbivilcas / Cusco|080700|080000
+080703|Chamaca|Chamaca / Chumbivilcas / Cusco|080700|080000
+080704|Colquemarca|Colquemarca / Chumbivilcas / Cusco|080700|080000
+080705|Livitaca|Livitaca / Chumbivilcas / Cusco|080700|080000
+080706|Llusco|Llusco / Chumbivilcas / Cusco|080700|080000
+080707|Quiñota|Quiñota / Chumbivilcas / Cusco|080700|080000
+080708|Velille|Velille / Chumbivilcas / Cusco|080700|080000
+080801|Espinar|Espinar / Espinar / Cusco|080800|080000
+080802|Condoroma|Condoroma / Espinar / Cusco|080800|080000
+080803|Coporaque|Coporaque / Espinar / Cusco|080800|080000
+080804|Ocoruro|Ocoruro / Espinar / Cusco|080800|080000
+080805|Pallpata|Pallpata / Espinar / Cusco|080800|080000
+080806|Pichigua|Pichigua / Espinar / Cusco|080800|080000
+080807|Suyckutambo|Suyckutambo / Espinar / Cusco|080800|080000
+080808|Alto Pichigua|Alto Pichigua / Espinar / Cusco|080800|080000
+080901|Santa Ana|Santa Ana / La Convención / Cusco|080900|080000
+080902|Echarate|Echarate / La Convención / Cusco|080900|080000
+080903|Huayopata|Huayopata / La Convención / Cusco|080900|080000
+080904|Maranura|Maranura / La Convención / Cusco|080900|080000
+080905|Ocobamba|Ocobamba / La Convención / Cusco|080900|080000
+080906|Quellouno|Quellouno / La Convención / Cusco|080900|080000
+080907|Kimbiri|Kimbiri / La Convención / Cusco|080900|080000
+080908|Santa Teresa|Santa Teresa / La Convención / Cusco|080900|080000
+080909|Vilcabamba|Vilcabamba / La Convención / Cusco|080900|080000
+080910|Pichari|Pichari / La Convención / Cusco|080900|080000
+080911|Inkawasi|Inkawasi / La Convención / Cusco|080900|080000
+080912|Villa Virgen|Villa Virgen / La Convención / Cusco|080900|080000
+080913|Villa Kintiarina|Villa Kintiarina / La Convención / Cusco|080900|080000
+080914|Megantoni|Megantoni / La Convención / Cusco|080900|080000
+081001|Paruro|Paruro / Paruro / Cusco|081000|080000
+081002|Accha|Accha / Paruro / Cusco|081000|080000
+081003|Ccapi|Ccapi / Paruro / Cusco|081000|080000
+081004|Colcha|Colcha / Paruro / Cusco|081000|080000
+081005|Huanoquite|Huanoquite / Paruro / Cusco|081000|080000
+081006|Omacha|Omacha / Paruro / Cusco|081000|080000
+081007|Paccaritambo|Paccaritambo / Paruro / Cusco|081000|080000
+081008|Pillpinto|Pillpinto / Paruro / Cusco|081000|080000
+081009|Yaurisque|Yaurisque / Paruro / Cusco|081000|080000
+081101|Paucartambo|Paucartambo / Paucartambo / Cusco|081100|080000
+081102|Caicay|Caicay / Paucartambo / Cusco|081100|080000
+081103|Challabamba|Challabamba / Paucartambo / Cusco|081100|080000
+081104|Colquepata|Colquepata / Paucartambo / Cusco|081100|080000
+081105|Huancarani|Huancarani / Paucartambo / Cusco|081100|080000
+081106|Kosñipata|Kosñipata / Paucartambo / Cusco|081100|080000
+081201|Urcos|Urcos / Quispicanchi / Cusco|081200|080000
+081202|Andahuaylillas|Andahuaylillas / Quispicanchi / Cusco|081200|080000
+081203|Camanti|Camanti / Quispicanchi / Cusco|081200|080000
+081204|Ccarhuayo|Ccarhuayo / Quispicanchi / Cusco|081200|080000
+081205|Ccatca|Ccatca / Quispicanchi / Cusco|081200|080000
+081206|Cusipata|Cusipata / Quispicanchi / Cusco|081200|080000
+081207|Huaro|Huaro / Quispicanchi / Cusco|081200|080000
+081208|Lucre|Lucre / Quispicanchi / Cusco|081200|080000
+081209|Marcapata|Marcapata / Quispicanchi / Cusco|081200|080000
+081210|Ocongate|Ocongate / Quispicanchi / Cusco|081200|080000
+081211|Oropesa|Oropesa / Quispicanchi / Cusco|081200|080000
+081212|Quiquijana|Quiquijana / Quispicanchi / Cusco|081200|080000
+081301|Urubamba|Urubamba / Urubamba / Cusco|081300|080000
+081302|Chinchero|Chinchero / Urubamba / Cusco|081300|080000
+081303|Huayllabamba|Huayllabamba / Urubamba / Cusco|081300|080000
+081304|Machupicchu|Machupicchu / Urubamba / Cusco|081300|080000
+081305|Maras|Maras / Urubamba / Cusco|081300|080000
+081306|Ollantaytambo|Ollantaytambo / Urubamba / Cusco|081300|080000
+081307|Yucay|Yucay / Urubamba / Cusco|081300|080000
+090101|Huancavelica|Huancavelica / Huancavelica / Huancavelica|090100|090000
+090102|Acobambilla|Acobambilla / Huancavelica / Huancavelica|090100|090000
+090103|Acoria|Acoria / Huancavelica / Huancavelica|090100|090000
+090104|Conayca|Conayca / Huancavelica / Huancavelica|090100|090000
+090105|Cuenca|Cuenca / Huancavelica / Huancavelica|090100|090000
+090106|Huachocolpa|Huachocolpa / Huancavelica / Huancavelica|090100|090000
+090107|Huayllahuara|Huayllahuara / Huancavelica / Huancavelica|090100|090000
+090108|Izcuchaca|Izcuchaca / Huancavelica / Huancavelica|090100|090000
+090109|Laria|Laria / Huancavelica / Huancavelica|090100|090000
+090110|Manta|Manta / Huancavelica / Huancavelica|090100|090000
+090111|Mariscal Cáceres|Mariscal Cáceres / Huancavelica / Huancavelica|090100|090000
+090112|Moya|Moya / Huancavelica / Huancavelica|090100|090000
+090113|Nuevo Occoro|Nuevo Occoro / Huancavelica / Huancavelica|090100|090000
+090114|Palca|Palca / Huancavelica / Huancavelica|090100|090000
+090115|Pilchaca|Pilchaca / Huancavelica / Huancavelica|090100|090000
+090116|Vilca|Vilca / Huancavelica / Huancavelica|090100|090000
+090117|Yauli|Yauli / Huancavelica / Huancavelica|090100|090000
+090118|Ascensión|Ascensión / Huancavelica / Huancavelica|090100|090000
+090119|Huando|Huando / Huancavelica / Huancavelica|090100|090000
+090201|Acobamba|Acobamba / Acobamba / Huancavelica|090200|090000
+090202|Andabamba|Andabamba / Acobamba / Huancavelica|090200|090000
+090203|Anta|Anta / Acobamba / Huancavelica|090200|090000
+090204|Caja|Caja / Acobamba / Huancavelica|090200|090000
+090205|Marcas|Marcas / Acobamba / Huancavelica|090200|090000
+090206|Paucara|Paucara / Acobamba / Huancavelica|090200|090000
+090207|Pomacocha|Pomacocha / Acobamba / Huancavelica|090200|090000
+090208|Rosario|Rosario / Acobamba / Huancavelica|090200|090000
+090301|Lircay|Lircay / Angaraes / Huancavelica|090300|090000
+090302|Anchonga|Anchonga / Angaraes / Huancavelica|090300|090000
+090303|Callanmarca|Callanmarca / Angaraes / Huancavelica|090300|090000
+090304|Ccochaccasa|Ccochaccasa / Angaraes / Huancavelica|090300|090000
+090305|Chincho|Chincho / Angaraes / Huancavelica|090300|090000
+090306|Congalla|Congalla / Angaraes / Huancavelica|090300|090000
+090307|Huanca-Huanca|Huanca-Huanca / Angaraes / Huancavelica|090300|090000
+090308|Huayllay Grande|Huayllay Grande / Angaraes / Huancavelica|090300|090000
+090309|Julcamarca|Julcamarca / Angaraes / Huancavelica|090300|090000
+090310|San Antonio de Antaparco|San Antonio de Antaparco / Angaraes / Huancavelica|090300|090000
+090311|Santo Tomas de Pata|Santo Tomas de Pata / Angaraes / Huancavelica|090300|090000
+090312|Secclla|Secclla / Angaraes / Huancavelica|090300|090000
+090401|Castrovirreyna|Castrovirreyna / Castrovirreyna / Huancavelica|090400|090000
+090402|Arma|Arma / Castrovirreyna / Huancavelica|090400|090000
+090403|Aurahua|Aurahua / Castrovirreyna / Huancavelica|090400|090000
+090404|Capillas|Capillas / Castrovirreyna / Huancavelica|090400|090000
+090405|Chupamarca|Chupamarca / Castrovirreyna / Huancavelica|090400|090000
+090406|Cocas|Cocas / Castrovirreyna / Huancavelica|090400|090000
+090407|Huachos|Huachos / Castrovirreyna / Huancavelica|090400|090000
+090408|Huamatambo|Huamatambo / Castrovirreyna / Huancavelica|090400|090000
+090409|Mollepampa|Mollepampa / Castrovirreyna / Huancavelica|090400|090000
+090410|San Juan|San Juan / Castrovirreyna / Huancavelica|090400|090000
+090411|Santa Ana|Santa Ana / Castrovirreyna / Huancavelica|090400|090000
+090412|Tantara|Tantara / Castrovirreyna / Huancavelica|090400|090000
+090413|Ticrapo|Ticrapo / Castrovirreyna / Huancavelica|090400|090000
+090501|Churcampa|Churcampa / Churcampa / Huancavelica|090500|090000
+090502|Anco|Anco / Churcampa / Huancavelica|090500|090000
+090503|Chinchihuasi|Chinchihuasi / Churcampa / Huancavelica|090500|090000
+090504|El Carmen|El Carmen / Churcampa / Huancavelica|090500|090000
+090505|La Merced|La Merced / Churcampa / Huancavelica|090500|090000
+090506|Locroja|Locroja / Churcampa / Huancavelica|090500|090000
+090507|Paucarbamba|Paucarbamba / Churcampa / Huancavelica|090500|090000
+090508|San Miguel de Mayocc|San Miguel de Mayocc / Churcampa / Huancavelica|090500|090000
+090509|San Pedro de Coris|San Pedro de Coris / Churcampa / Huancavelica|090500|090000
+090510|Pachamarca|Pachamarca / Churcampa / Huancavelica|090500|090000
+090511|Cosme|Cosme / Churcampa / Huancavelica|090500|090000
+090601|Huaytara|Huaytara / Huaytará / Huancavelica|090600|090000
+090602|Ayavi|Ayavi / Huaytará / Huancavelica|090600|090000
+090603|Córdova|Córdova / Huaytará / Huancavelica|090600|090000
+090604|Huayacundo Arma|Huayacundo Arma / Huaytará / Huancavelica|090600|090000
+090605|Laramarca|Laramarca / Huaytará / Huancavelica|090600|090000
+090606|Ocoyo|Ocoyo / Huaytará / Huancavelica|090600|090000
+090607|Pilpichaca|Pilpichaca / Huaytará / Huancavelica|090600|090000
+090608|Querco|Querco / Huaytará / Huancavelica|090600|090000
+090609|Quito-Arma|Quito-Arma / Huaytará / Huancavelica|090600|090000
+090610|San Antonio de Cusicancha|San Antonio de Cusicancha / Huaytará / Huancavelica|090600|090000
+090611|San Francisco de Sangayaico|San Francisco de Sangayaico / Huaytará / Huancavelica|090600|090000
+090612|San Isidro|San Isidro / Huaytará / Huancavelica|090600|090000
+090613|Santiago de Chocorvos|Santiago de Chocorvos / Huaytará / Huancavelica|090600|090000
+090614|Santiago de Quirahuara|Santiago de Quirahuara / Huaytará / Huancavelica|090600|090000
+090615|Santo Domingo de Capillas|Santo Domingo de Capillas / Huaytará / Huancavelica|090600|090000
+090616|Tambo|Tambo / Huaytará / Huancavelica|090600|090000
+090701|Pampas|Pampas / Tayacaja / Huancavelica|090700|090000
+090702|Acostambo|Acostambo / Tayacaja / Huancavelica|090700|090000
+090703|Acraquia|Acraquia / Tayacaja / Huancavelica|090700|090000
+090704|Ahuaycha|Ahuaycha / Tayacaja / Huancavelica|090700|090000
+090705|Colcabamba|Colcabamba / Tayacaja / Huancavelica|090700|090000
+090706|Daniel Hernández|Daniel Hernández / Tayacaja / Huancavelica|090700|090000
+090707|Huachocolpa|Huachocolpa / Tayacaja / Huancavelica|090700|090000
+090709|Huaribamba|Huaribamba / Tayacaja / Huancavelica|090700|090000
+090710|Ñahuimpuquio|Ñahuimpuquio / Tayacaja / Huancavelica|090700|090000
+090711|Pazos|Pazos / Tayacaja / Huancavelica|090700|090000
+090713|Quishuar|Quishuar / Tayacaja / Huancavelica|090700|090000
+090714|Salcabamba|Salcabamba / Tayacaja / Huancavelica|090700|090000
+090715|Salcahuasi|Salcahuasi / Tayacaja / Huancavelica|090700|090000
+090716|San Marcos de Rocchac|San Marcos de Rocchac / Tayacaja / Huancavelica|090700|090000
+090717|Surcubamba|Surcubamba / Tayacaja / Huancavelica|090700|090000
+090718|Tintay Puncu|Tintay Puncu / Tayacaja / Huancavelica|090700|090000
+090719|Quichuas|Quichuas / Tayacaja / Huancavelica|090700|090000
+090720|Andaymarca|Andaymarca / Tayacaja / Huancavelica|090700|090000
+090721|Roble|Roble / Tayacaja / Huancavelica|090700|090000
+090722|Pichos|Pichos / Tayacaja / Huancavelica|090700|090000
+090723|Santiago de Tucuma|Santiago de Tucuma / Tayacaja / Huancavelica|090700|090000
+100101|Huanuco|Huanuco / Huánuco / Huánuco|100100|100000
+100102|Amarilis|Amarilis / Huánuco / Huánuco|100100|100000
+100103|Chinchao|Chinchao / Huánuco / Huánuco|100100|100000
+100104|Churubamba|Churubamba / Huánuco / Huánuco|100100|100000
+100105|Margos|Margos / Huánuco / Huánuco|100100|100000
+100106|Quisqui (Kichki)|Quisqui (Kichki) / Huánuco / Huánuco|100100|100000
+100107|San Francisco de Cayran|San Francisco de Cayran / Huánuco / Huánuco|100100|100000
+100108|San Pedro de Chaulan|San Pedro de Chaulan / Huánuco / Huánuco|100100|100000
+100109|Santa María del Valle|Santa María del Valle / Huánuco / Huánuco|100100|100000
+100110|Yarumayo|Yarumayo / Huánuco / Huánuco|100100|100000
+100111|Pillco Marca|Pillco Marca / Huánuco / Huánuco|100100|100000
+100112|Yacus|Yacus / Huánuco / Huánuco|100100|100000
+100113|San Pablo de Pillao|San Pablo de Pillao / Huánuco / Huánuco|100100|100000
+100201|Ambo|Ambo / Ambo / Huánuco|100200|100000
+100202|Cayna|Cayna / Ambo / Huánuco|100200|100000
+100203|Colpas|Colpas / Ambo / Huánuco|100200|100000
+100204|Conchamarca|Conchamarca / Ambo / Huánuco|100200|100000
+100205|Huacar|Huacar / Ambo / Huánuco|100200|100000
+100206|San Francisco|San Francisco / Ambo / Huánuco|100200|100000
+100207|San Rafael|San Rafael / Ambo / Huánuco|100200|100000
+100208|Tomay Kichwa|Tomay Kichwa / Ambo / Huánuco|100200|100000
+100301|La Unión|La Unión / Dos de Mayo / Huánuco|100300|100000
+100307|Chuquis|Chuquis / Dos de Mayo / Huánuco|100300|100000
+100311|Marías|Marías / Dos de Mayo / Huánuco|100300|100000
+100313|Pachas|Pachas / Dos de Mayo / Huánuco|100300|100000
+100316|Quivilla|Quivilla / Dos de Mayo / Huánuco|100300|100000
+100317|Ripan|Ripan / Dos de Mayo / Huánuco|100300|100000
+100321|Shunqui|Shunqui / Dos de Mayo / Huánuco|100300|100000
+100322|Sillapata|Sillapata / Dos de Mayo / Huánuco|100300|100000
+100323|Yanas|Yanas / Dos de Mayo / Huánuco|100300|100000
+100401|Huacaybamba|Huacaybamba / Huacaybamba / Huánuco|100400|100000
+100402|Canchabamba|Canchabamba / Huacaybamba / Huánuco|100400|100000
+100403|Cochabamba|Cochabamba / Huacaybamba / Huánuco|100400|100000
+100404|Pinra|Pinra / Huacaybamba / Huánuco|100400|100000
+100501|Llata|Llata / Huamalíes / Huánuco|100500|100000
+100502|Arancay|Arancay / Huamalíes / Huánuco|100500|100000
+100503|Chavín de Pariarca|Chavín de Pariarca / Huamalíes / Huánuco|100500|100000
+100504|Jacas Grande|Jacas Grande / Huamalíes / Huánuco|100500|100000
+100505|Jircan|Jircan / Huamalíes / Huánuco|100500|100000
+100506|Miraflores|Miraflores / Huamalíes / Huánuco|100500|100000
+100507|Monzón|Monzón / Huamalíes / Huánuco|100500|100000
+100508|Punchao|Punchao / Huamalíes / Huánuco|100500|100000
+100509|Puños|Puños / Huamalíes / Huánuco|100500|100000
+100510|Singa|Singa / Huamalíes / Huánuco|100500|100000
+100511|Tantamayo|Tantamayo / Huamalíes / Huánuco|100500|100000
+100601|Rupa-Rupa|Rupa-Rupa / Leoncio Prado / Huánuco|100600|100000
+100602|Daniel Alomía Robles|Daniel Alomía Robles / Leoncio Prado / Huánuco|100600|100000
+100603|Hermílio Valdizan|Hermílio Valdizan / Leoncio Prado / Huánuco|100600|100000
+100604|José Crespo y Castillo|José Crespo y Castillo / Leoncio Prado / Huánuco|100600|100000
+100605|Luyando|Luyando / Leoncio Prado / Huánuco|100600|100000
+100606|Mariano Damaso Beraun|Mariano Damaso Beraun / Leoncio Prado / Huánuco|100600|100000
+100607|Pucayacu|Pucayacu / Leoncio Prado / Huánuco|100600|100000
+100608|Castillo Grande|Castillo Grande / Leoncio Prado / Huánuco|100600|100000
+100609|Pueblo Nuevo|Pueblo Nuevo / Leoncio Prado / Huánuco|100600|100000
+100610|Santo Domingo de Anda|Santo Domingo de Anda / Leoncio Prado / Huánuco|100600|100000
+100701|Huacrachuco|Huacrachuco / Marañón / Huánuco|100700|100000
+100702|Cholon|Cholon / Marañón / Huánuco|100700|100000
+100703|San Buenaventura|San Buenaventura / Marañón / Huánuco|100700|100000
+100704|La Morada|La Morada / Marañón / Huánuco|100700|100000
+100705|Santa Rosa de Alto Yanajanca|Santa Rosa de Alto Yanajanca / Marañón / Huánuco|100700|100000
+100801|Panao|Panao / Pachitea / Huánuco|100800|100000
+100802|Chaglla|Chaglla / Pachitea / Huánuco|100800|100000
+100803|Molino|Molino / Pachitea / Huánuco|100800|100000
+100804|Umari|Umari / Pachitea / Huánuco|100800|100000
+100901|Puerto Inca|Puerto Inca / Puerto Inca / Huánuco|100900|100000
+100902|Codo del Pozuzo|Codo del Pozuzo / Puerto Inca / Huánuco|100900|100000
+100903|Honoria|Honoria / Puerto Inca / Huánuco|100900|100000
+100904|Tournavista|Tournavista / Puerto Inca / Huánuco|100900|100000
+100905|Yuyapichis|Yuyapichis / Puerto Inca / Huánuco|100900|100000
+101001|Jesús|Jesús / Lauricocha  / Huánuco|101000|100000
+101002|Baños|Baños / Lauricocha  / Huánuco|101000|100000
+101003|Jivia|Jivia / Lauricocha  / Huánuco|101000|100000
+101004|Queropalca|Queropalca / Lauricocha  / Huánuco|101000|100000
+101005|Rondos|Rondos / Lauricocha  / Huánuco|101000|100000
+101006|San Francisco de Asís|San Francisco de Asís / Lauricocha  / Huánuco|101000|100000
+101007|San Miguel de Cauri|San Miguel de Cauri / Lauricocha  / Huánuco|101000|100000
+101101|Chavinillo|Chavinillo / Yarowilca  / Huánuco|101100|100000
+101102|Cahuac|Cahuac / Yarowilca  / Huánuco|101100|100000
+101103|Chacabamba|Chacabamba / Yarowilca  / Huánuco|101100|100000
+101104|Aparicio Pomares|Aparicio Pomares / Yarowilca  / Huánuco|101100|100000
+101105|Jacas Chico|Jacas Chico / Yarowilca  / Huánuco|101100|100000
+101106|Obas|Obas / Yarowilca  / Huánuco|101100|100000
+101107|Pampamarca|Pampamarca / Yarowilca  / Huánuco|101100|100000
+101108|Choras|Choras / Yarowilca  / Huánuco|101100|100000
+110101|Ica|Ica / Ica  / Ica|110100|110000
+110102|La Tinguiña|La Tinguiña / Ica  / Ica|110100|110000
+110103|Los Aquijes|Los Aquijes / Ica  / Ica|110100|110000
+110104|Ocucaje|Ocucaje / Ica  / Ica|110100|110000
+110105|Pachacutec|Pachacutec / Ica  / Ica|110100|110000
+110106|Parcona|Parcona / Ica  / Ica|110100|110000
+110107|Pueblo Nuevo|Pueblo Nuevo / Ica  / Ica|110100|110000
+110108|Salas|Salas / Ica  / Ica|110100|110000
+110109|San José de Los Molinos|San José de Los Molinos / Ica  / Ica|110100|110000
+110110|San Juan Bautista|San Juan Bautista / Ica  / Ica|110100|110000
+110111|Santiago|Santiago / Ica  / Ica|110100|110000
+110112|Subtanjalla|Subtanjalla / Ica  / Ica|110100|110000
+110113|Tate|Tate / Ica  / Ica|110100|110000
+110114|Yauca del Rosario|Yauca del Rosario / Ica  / Ica|110100|110000
+110201|Chincha Alta|Chincha Alta / Chincha  / Ica|110200|110000
+110202|Alto Laran|Alto Laran / Chincha  / Ica|110200|110000
+110203|Chavin|Chavin / Chincha  / Ica|110200|110000
+110204|Chincha Baja|Chincha Baja / Chincha  / Ica|110200|110000
+110205|El Carmen|El Carmen / Chincha  / Ica|110200|110000
+110206|Grocio Prado|Grocio Prado / Chincha  / Ica|110200|110000
+110207|Pueblo Nuevo|Pueblo Nuevo / Chincha  / Ica|110200|110000
+110208|San Juan de Yanac|San Juan de Yanac / Chincha  / Ica|110200|110000
+110209|San Pedro de Huacarpana|San Pedro de Huacarpana / Chincha  / Ica|110200|110000
+110210|Sunampe|Sunampe / Chincha  / Ica|110200|110000
+110211|Tambo de Mora|Tambo de Mora / Chincha  / Ica|110200|110000
+110301|Nasca|Nasca / Nasca  / Ica|110300|110000
+110302|Changuillo|Changuillo / Nasca  / Ica|110300|110000
+110303|El Ingenio|El Ingenio / Nasca  / Ica|110300|110000
+110304|Marcona|Marcona / Nasca  / Ica|110300|110000
+110305|Vista Alegre|Vista Alegre / Nasca  / Ica|110300|110000
+110401|Palpa|Palpa / Palpa  / Ica|110400|110000
+110402|Llipata|Llipata / Palpa  / Ica|110400|110000
+110403|Río Grande|Río Grande / Palpa  / Ica|110400|110000
+110404|Santa Cruz|Santa Cruz / Palpa  / Ica|110400|110000
+110405|Tibillo|Tibillo / Palpa  / Ica|110400|110000
+110501|Pisco|Pisco / Pisco  / Ica|110500|110000
+110502|Huancano|Huancano / Pisco  / Ica|110500|110000
+110503|Humay|Humay / Pisco  / Ica|110500|110000
+110504|Independencia|Independencia / Pisco  / Ica|110500|110000
+110505|Paracas|Paracas / Pisco  / Ica|110500|110000
+110506|San Andrés|San Andrés / Pisco  / Ica|110500|110000
+110507|San Clemente|San Clemente / Pisco  / Ica|110500|110000
+110508|Tupac Amaru Inca|Tupac Amaru Inca / Pisco  / Ica|110500|110000
+120101|Huancayo|Huancayo / Huancayo  / Junín|120100|120000
+120104|Carhuacallanga|Carhuacallanga / Huancayo  / Junín|120100|120000
+120105|Chacapampa|Chacapampa / Huancayo  / Junín|120100|120000
+120106|Chicche|Chicche / Huancayo  / Junín|120100|120000
+120107|Chilca|Chilca / Huancayo  / Junín|120100|120000
+120108|Chongos Alto|Chongos Alto / Huancayo  / Junín|120100|120000
+120111|Chupuro|Chupuro / Huancayo  / Junín|120100|120000
+120112|Colca|Colca / Huancayo  / Junín|120100|120000
+120113|Cullhuas|Cullhuas / Huancayo  / Junín|120100|120000
+120114|El Tambo|El Tambo / Huancayo  / Junín|120100|120000
+120116|Huacrapuquio|Huacrapuquio / Huancayo  / Junín|120100|120000
+120117|Hualhuas|Hualhuas / Huancayo  / Junín|120100|120000
+120119|Huancan|Huancan / Huancayo  / Junín|120100|120000
+120120|Huasicancha|Huasicancha / Huancayo  / Junín|120100|120000
+120121|Huayucachi|Huayucachi / Huancayo  / Junín|120100|120000
+120122|Ingenio|Ingenio / Huancayo  / Junín|120100|120000
+120124|Pariahuanca|Pariahuanca / Huancayo  / Junín|120100|120000
+120125|Pilcomayo|Pilcomayo / Huancayo  / Junín|120100|120000
+120126|Pucara|Pucara / Huancayo  / Junín|120100|120000
+120127|Quichuay|Quichuay / Huancayo  / Junín|120100|120000
+120128|Quilcas|Quilcas / Huancayo  / Junín|120100|120000
+120129|San Agustín|San Agustín / Huancayo  / Junín|120100|120000
+120130|San Jerónimo de Tunan|San Jerónimo de Tunan / Huancayo  / Junín|120100|120000
+120132|Saño|Saño / Huancayo  / Junín|120100|120000
+120133|Sapallanga|Sapallanga / Huancayo  / Junín|120100|120000
+120134|Sicaya|Sicaya / Huancayo  / Junín|120100|120000
+120135|Santo Domingo de Acobamba|Santo Domingo de Acobamba / Huancayo  / Junín|120100|120000
+120136|Viques|Viques / Huancayo  / Junín|120100|120000
+120201|Concepción|Concepción / Concepción  / Junín|120200|120000
+120202|Aco|Aco / Concepción  / Junín|120200|120000
+120203|Andamarca|Andamarca / Concepción  / Junín|120200|120000
+120204|Chambara|Chambara / Concepción  / Junín|120200|120000
+120205|Cochas|Cochas / Concepción  / Junín|120200|120000
+120206|Comas|Comas / Concepción  / Junín|120200|120000
+120207|Heroínas Toledo|Heroínas Toledo / Concepción  / Junín|120200|120000
+120208|Manzanares|Manzanares / Concepción  / Junín|120200|120000
+120209|Mariscal Castilla|Mariscal Castilla / Concepción  / Junín|120200|120000
+120210|Matahuasi|Matahuasi / Concepción  / Junín|120200|120000
+120211|Mito|Mito / Concepción  / Junín|120200|120000
+120212|Nueve de Julio|Nueve de Julio / Concepción  / Junín|120200|120000
+120213|Orcotuna|Orcotuna / Concepción  / Junín|120200|120000
+120214|San José de Quero|San José de Quero / Concepción  / Junín|120200|120000
+120215|Santa Rosa de Ocopa|Santa Rosa de Ocopa / Concepción  / Junín|120200|120000
+120301|Chanchamayo|Chanchamayo / Chanchamayo  / Junín|120300|120000
+120302|Perene|Perene / Chanchamayo  / Junín|120300|120000
+120303|Pichanaqui|Pichanaqui / Chanchamayo  / Junín|120300|120000
+120304|San Luis de Shuaro|San Luis de Shuaro / Chanchamayo  / Junín|120300|120000
+120305|San Ramón|San Ramón / Chanchamayo  / Junín|120300|120000
+120306|Vitoc|Vitoc / Chanchamayo  / Junín|120300|120000
+120401|Jauja|Jauja / Jauja  / Junín|120400|120000
+120402|Acolla|Acolla / Jauja  / Junín|120400|120000
+120403|Apata|Apata / Jauja  / Junín|120400|120000
+120404|Ataura|Ataura / Jauja  / Junín|120400|120000
+120405|Canchayllo|Canchayllo / Jauja  / Junín|120400|120000
+120406|Curicaca|Curicaca / Jauja  / Junín|120400|120000
+120407|El Mantaro|El Mantaro / Jauja  / Junín|120400|120000
+120408|Huamali|Huamali / Jauja  / Junín|120400|120000
+120409|Huaripampa|Huaripampa / Jauja  / Junín|120400|120000
+120410|Huertas|Huertas / Jauja  / Junín|120400|120000
+120411|Janjaillo|Janjaillo / Jauja  / Junín|120400|120000
+120412|Julcán|Julcán / Jauja  / Junín|120400|120000
+120413|Leonor Ordóñez|Leonor Ordóñez / Jauja  / Junín|120400|120000
+120414|Llocllapampa|Llocllapampa / Jauja  / Junín|120400|120000
+120415|Marco|Marco / Jauja  / Junín|120400|120000
+120416|Masma|Masma / Jauja  / Junín|120400|120000
+120417|Masma Chicche|Masma Chicche / Jauja  / Junín|120400|120000
+120418|Molinos|Molinos / Jauja  / Junín|120400|120000
+120419|Monobamba|Monobamba / Jauja  / Junín|120400|120000
+120420|Muqui|Muqui / Jauja  / Junín|120400|120000
+120421|Muquiyauyo|Muquiyauyo / Jauja  / Junín|120400|120000
+120422|Paca|Paca / Jauja  / Junín|120400|120000
+120423|Paccha|Paccha / Jauja  / Junín|120400|120000
+120424|Pancan|Pancan / Jauja  / Junín|120400|120000
+120425|Parco|Parco / Jauja  / Junín|120400|120000
+120426|Pomacancha|Pomacancha / Jauja  / Junín|120400|120000
+120427|Ricran|Ricran / Jauja  / Junín|120400|120000
+120428|San Lorenzo|San Lorenzo / Jauja  / Junín|120400|120000
+120429|San Pedro de Chunan|San Pedro de Chunan / Jauja  / Junín|120400|120000
+120430|Sausa|Sausa / Jauja  / Junín|120400|120000
+120431|Sincos|Sincos / Jauja  / Junín|120400|120000
+120432|Tunan Marca|Tunan Marca / Jauja  / Junín|120400|120000
+120433|Yauli|Yauli / Jauja  / Junín|120400|120000
+120434|Yauyos|Yauyos / Jauja  / Junín|120400|120000
+120501|Junin|Junin / Junín  / Junín|120500|120000
+120502|Carhuamayo|Carhuamayo / Junín  / Junín|120500|120000
+120503|Ondores|Ondores / Junín  / Junín|120500|120000
+120504|Ulcumayo|Ulcumayo / Junín  / Junín|120500|120000
+120601|Satipo|Satipo / Satipo  / Junín|120600|120000
+120602|Coviriali|Coviriali / Satipo  / Junín|120600|120000
+120603|Llaylla|Llaylla / Satipo  / Junín|120600|120000
+120604|Mazamari|Mazamari / Satipo  / Junín|120600|120000
+120605|Pampa Hermosa|Pampa Hermosa / Satipo  / Junín|120600|120000
+120606|Pangoa|Pangoa / Satipo  / Junín|120600|120000
+120607|Río Negro|Río Negro / Satipo  / Junín|120600|120000
+120608|Río Tambo|Río Tambo / Satipo  / Junín|120600|120000
+120609|Vizcatan del Ene|Vizcatan del Ene / Satipo  / Junín|120600|120000
+120701|Tarma|Tarma / Tarma  / Junín|120700|120000
+120702|Acobamba|Acobamba / Tarma  / Junín|120700|120000
+120703|Huaricolca|Huaricolca / Tarma  / Junín|120700|120000
+120704|Huasahuasi|Huasahuasi / Tarma  / Junín|120700|120000
+120705|La Unión|La Unión / Tarma  / Junín|120700|120000
+120706|Palca|Palca / Tarma  / Junín|120700|120000
+120707|Palcamayo|Palcamayo / Tarma  / Junín|120700|120000
+120708|San Pedro de Cajas|San Pedro de Cajas / Tarma  / Junín|120700|120000
+120709|Tapo|Tapo / Tarma  / Junín|120700|120000
+120801|La Oroya|La Oroya / Yauli  / Junín|120800|120000
+120802|Chacapalpa|Chacapalpa / Yauli  / Junín|120800|120000
+120803|Huay-Huay|Huay-Huay / Yauli  / Junín|120800|120000
+120804|Marcapomacocha|Marcapomacocha / Yauli  / Junín|120800|120000
+120805|Morococha|Morococha / Yauli  / Junín|120800|120000
+120806|Paccha|Paccha / Yauli  / Junín|120800|120000
+120807|Santa Bárbara de Carhuacayan|Santa Bárbara de Carhuacayan / Yauli  / Junín|120800|120000
+120808|Santa Rosa de Sacco|Santa Rosa de Sacco / Yauli  / Junín|120800|120000
+120809|Suitucancha|Suitucancha / Yauli  / Junín|120800|120000
+120810|Yauli|Yauli / Yauli  / Junín|120800|120000
+120901|Chupaca|Chupaca / Chupaca  / Junín|120900|120000
+120902|Ahuac|Ahuac / Chupaca  / Junín|120900|120000
+120903|Chongos Bajo|Chongos Bajo / Chupaca  / Junín|120900|120000
+120904|Huachac|Huachac / Chupaca  / Junín|120900|120000
+120905|Huamancaca Chico|Huamancaca Chico / Chupaca  / Junín|120900|120000
+120906|San Juan de Iscos|San Juan de Iscos / Chupaca  / Junín|120900|120000
+120907|San Juan de Jarpa|San Juan de Jarpa / Chupaca  / Junín|120900|120000
+120908|Tres de Diciembre|Tres de Diciembre / Chupaca  / Junín|120900|120000
+120909|Yanacancha|Yanacancha / Chupaca  / Junín|120900|120000
+130101|Trujillo|Trujillo / Trujillo  / La Libertad|130100|130000
+130102|El Porvenir|El Porvenir / Trujillo  / La Libertad|130100|130000
+130103|Florencia de Mora|Florencia de Mora / Trujillo  / La Libertad|130100|130000
+130104|Huanchaco|Huanchaco / Trujillo  / La Libertad|130100|130000
+130105|La Esperanza|La Esperanza / Trujillo  / La Libertad|130100|130000
+130106|Laredo|Laredo / Trujillo  / La Libertad|130100|130000
+130107|Moche|Moche / Trujillo  / La Libertad|130100|130000
+130108|Poroto|Poroto / Trujillo  / La Libertad|130100|130000
+130109|Salaverry|Salaverry / Trujillo  / La Libertad|130100|130000
+130110|Simbal|Simbal / Trujillo  / La Libertad|130100|130000
+130111|Victor Larco Herrera|Victor Larco Herrera / Trujillo  / La Libertad|130100|130000
+130201|Ascope|Ascope / Ascope  / La Libertad|130200|130000
+130202|Chicama|Chicama / Ascope  / La Libertad|130200|130000
+130203|Chocope|Chocope / Ascope  / La Libertad|130200|130000
+130204|Magdalena de Cao|Magdalena de Cao / Ascope  / La Libertad|130200|130000
+130205|Paijan|Paijan / Ascope  / La Libertad|130200|130000
+130206|Rázuri|Rázuri / Ascope  / La Libertad|130200|130000
+130207|Santiago de Cao|Santiago de Cao / Ascope  / La Libertad|130200|130000
+130208|Casa Grande|Casa Grande / Ascope  / La Libertad|130200|130000
+130301|Bolívar|Bolívar / Bolívar  / La Libertad|130300|130000
+130302|Bambamarca|Bambamarca / Bolívar  / La Libertad|130300|130000
+130303|Condormarca|Condormarca / Bolívar  / La Libertad|130300|130000
+130304|Longotea|Longotea / Bolívar  / La Libertad|130300|130000
+130305|Uchumarca|Uchumarca / Bolívar  / La Libertad|130300|130000
+130306|Ucuncha|Ucuncha / Bolívar  / La Libertad|130300|130000
+130401|Chepen|Chepen / Chepén  / La Libertad|130400|130000
+130402|Pacanga|Pacanga / Chepén  / La Libertad|130400|130000
+130403|Pueblo Nuevo|Pueblo Nuevo / Chepén  / La Libertad|130400|130000
+130501|Julcan|Julcan / Julcán  / La Libertad|130500|130000
+130502|Calamarca|Calamarca / Julcán  / La Libertad|130500|130000
+130503|Carabamba|Carabamba / Julcán  / La Libertad|130500|130000
+130504|Huaso|Huaso / Julcán  / La Libertad|130500|130000
+130601|Otuzco|Otuzco / Otuzco  / La Libertad|130600|130000
+130602|Agallpampa|Agallpampa / Otuzco  / La Libertad|130600|130000
+130604|Charat|Charat / Otuzco  / La Libertad|130600|130000
+130605|Huaranchal|Huaranchal / Otuzco  / La Libertad|130600|130000
+130606|La Cuesta|La Cuesta / Otuzco  / La Libertad|130600|130000
+130608|Mache|Mache / Otuzco  / La Libertad|130600|130000
+130610|Paranday|Paranday / Otuzco  / La Libertad|130600|130000
+130611|Salpo|Salpo / Otuzco  / La Libertad|130600|130000
+130613|Sinsicap|Sinsicap / Otuzco  / La Libertad|130600|130000
+130614|Usquil|Usquil / Otuzco  / La Libertad|130600|130000
+130701|San Pedro de Lloc|San Pedro de Lloc / Pacasmayo  / La Libertad|130700|130000
+130702|Guadalupe|Guadalupe / Pacasmayo  / La Libertad|130700|130000
+130703|Jequetepeque|Jequetepeque / Pacasmayo  / La Libertad|130700|130000
+130704|Pacasmayo|Pacasmayo / Pacasmayo  / La Libertad|130700|130000
+130705|San José|San José / Pacasmayo  / La Libertad|130700|130000
+130801|Tayabamba|Tayabamba / Pataz  / La Libertad|130800|130000
+130802|Buldibuyo|Buldibuyo / Pataz  / La Libertad|130800|130000
+130803|Chillia|Chillia / Pataz  / La Libertad|130800|130000
+130804|Huancaspata|Huancaspata / Pataz  / La Libertad|130800|130000
+130805|Huaylillas|Huaylillas / Pataz  / La Libertad|130800|130000
+130806|Huayo|Huayo / Pataz  / La Libertad|130800|130000
+130807|Ongon|Ongon / Pataz  / La Libertad|130800|130000
+130808|Parcoy|Parcoy / Pataz  / La Libertad|130800|130000
+130809|Pataz|Pataz / Pataz  / La Libertad|130800|130000
+130810|Pias|Pias / Pataz  / La Libertad|130800|130000
+130811|Santiago de Challas|Santiago de Challas / Pataz  / La Libertad|130800|130000
+130812|Taurija|Taurija / Pataz  / La Libertad|130800|130000
+130813|Urpay|Urpay / Pataz  / La Libertad|130800|130000
+130901|Huamachuco|Huamachuco / Sánchez Carrión  / La Libertad|130900|130000
+130902|Chugay|Chugay / Sánchez Carrión  / La Libertad|130900|130000
+130903|Cochorco|Cochorco / Sánchez Carrión  / La Libertad|130900|130000
+130904|Curgos|Curgos / Sánchez Carrión  / La Libertad|130900|130000
+130905|Marcabal|Marcabal / Sánchez Carrión  / La Libertad|130900|130000
+130906|Sanagoran|Sanagoran / Sánchez Carrión  / La Libertad|130900|130000
+130907|Sarin|Sarin / Sánchez Carrión  / La Libertad|130900|130000
+130908|Sartimbamba|Sartimbamba / Sánchez Carrión  / La Libertad|130900|130000
+131001|Santiago de Chuco|Santiago de Chuco / Santiago de Chuco  / La Libertad|131000|130000
+131002|Angasmarca|Angasmarca / Santiago de Chuco  / La Libertad|131000|130000
+131003|Cachicadan|Cachicadan / Santiago de Chuco  / La Libertad|131000|130000
+131004|Mollebamba|Mollebamba / Santiago de Chuco  / La Libertad|131000|130000
+131005|Mollepata|Mollepata / Santiago de Chuco  / La Libertad|131000|130000
+131006|Quiruvilca|Quiruvilca / Santiago de Chuco  / La Libertad|131000|130000
+131007|Santa Cruz de Chuca|Santa Cruz de Chuca / Santiago de Chuco  / La Libertad|131000|130000
+131008|Sitabamba|Sitabamba / Santiago de Chuco  / La Libertad|131000|130000
+131101|Cascas|Cascas / Gran Chimú  / La Libertad|131100|130000
+131102|Lucma|Lucma / Gran Chimú  / La Libertad|131100|130000
+131103|Marmot|Marmot / Gran Chimú  / La Libertad|131100|130000
+131104|Sayapullo|Sayapullo / Gran Chimú  / La Libertad|131100|130000
+131201|Viru|Viru / Virú  / La Libertad|131200|130000
+131202|Chao|Chao / Virú  / La Libertad|131200|130000
+131203|Guadalupito|Guadalupito / Virú  / La Libertad|131200|130000
+140101|Chiclayo|Chiclayo / Chiclayo  / Lambayeque|140100|140000
+140102|Chongoyape|Chongoyape / Chiclayo  / Lambayeque|140100|140000
+140103|Eten|Eten / Chiclayo  / Lambayeque|140100|140000
+140104|Eten Puerto|Eten Puerto / Chiclayo  / Lambayeque|140100|140000
+140105|José Leonardo Ortiz|José Leonardo Ortiz / Chiclayo  / Lambayeque|140100|140000
+140106|La Victoria|La Victoria / Chiclayo  / Lambayeque|140100|140000
+140107|Lagunas|Lagunas / Chiclayo  / Lambayeque|140100|140000
+140108|Monsefu|Monsefu / Chiclayo  / Lambayeque|140100|140000
+140109|Nueva Arica|Nueva Arica / Chiclayo  / Lambayeque|140100|140000
+140110|Oyotun|Oyotun / Chiclayo  / Lambayeque|140100|140000
+140111|Picsi|Picsi / Chiclayo  / Lambayeque|140100|140000
+140112|Pimentel|Pimentel / Chiclayo  / Lambayeque|140100|140000
+140113|Reque|Reque / Chiclayo  / Lambayeque|140100|140000
+140114|Santa Rosa|Santa Rosa / Chiclayo  / Lambayeque|140100|140000
+140115|Saña|Saña / Chiclayo  / Lambayeque|140100|140000
+140116|Cayalti|Cayalti / Chiclayo  / Lambayeque|140100|140000
+140117|Patapo|Patapo / Chiclayo  / Lambayeque|140100|140000
+140118|Pomalca|Pomalca / Chiclayo  / Lambayeque|140100|140000
+140119|Pucala|Pucala / Chiclayo  / Lambayeque|140100|140000
+140120|Tuman|Tuman / Chiclayo  / Lambayeque|140100|140000
+140201|Ferreñafe|Ferreñafe / Ferreñafe  / Lambayeque|140200|140000
+140202|Cañaris|Cañaris / Ferreñafe  / Lambayeque|140200|140000
+140203|Incahuasi|Incahuasi / Ferreñafe  / Lambayeque|140200|140000
+140204|Manuel Antonio Mesones Muro|Manuel Antonio Mesones Muro / Ferreñafe  / Lambayeque|140200|140000
+140205|Pitipo|Pitipo / Ferreñafe  / Lambayeque|140200|140000
+140206|Pueblo Nuevo|Pueblo Nuevo / Ferreñafe  / Lambayeque|140200|140000
+140301|Lambayeque|Lambayeque / Lambayeque  / Lambayeque|140300|140000
+140302|Chochope|Chochope / Lambayeque  / Lambayeque|140300|140000
+140303|Illimo|Illimo / Lambayeque  / Lambayeque|140300|140000
+140304|Jayanca|Jayanca / Lambayeque  / Lambayeque|140300|140000
+140305|Mochumi|Mochumi / Lambayeque  / Lambayeque|140300|140000
+140306|Morrope|Morrope / Lambayeque  / Lambayeque|140300|140000
+140307|Motupe|Motupe / Lambayeque  / Lambayeque|140300|140000
+140308|Olmos|Olmos / Lambayeque  / Lambayeque|140300|140000
+140309|Pacora|Pacora / Lambayeque  / Lambayeque|140300|140000
+140310|Salas|Salas / Lambayeque  / Lambayeque|140300|140000
+140311|San José|San José / Lambayeque  / Lambayeque|140300|140000
+140312|Tucume|Tucume / Lambayeque  / Lambayeque|140300|140000
+150101|Lima|Lima / Lima  / Lima|150100|150000
+150102|Ancón|Ancón / Lima  / Lima|150100|150000
+150103|Ate|Ate / Lima  / Lima|150100|150000
+150104|Barranco|Barranco / Lima  / Lima|150100|150000
+150105|Breña|Breña / Lima  / Lima|150100|150000
+150106|Carabayllo|Carabayllo / Lima  / Lima|150100|150000
+150107|Chaclacayo|Chaclacayo / Lima  / Lima|150100|150000
+150108|Chorrillos|Chorrillos / Lima  / Lima|150100|150000
+150109|Cieneguilla|Cieneguilla / Lima  / Lima|150100|150000
+150110|Comas|Comas / Lima  / Lima|150100|150000
+150111|El Agustino|El Agustino / Lima  / Lima|150100|150000
+150112|Independencia|Independencia / Lima  / Lima|150100|150000
+150113|Jesús María|Jesús María / Lima  / Lima|150100|150000
+150114|La Molina|La Molina / Lima  / Lima|150100|150000
+150115|La Victoria|La Victoria / Lima  / Lima|150100|150000
+150116|Lince|Lince / Lima  / Lima|150100|150000
+150117|Los Olivos|Los Olivos / Lima  / Lima|150100|150000
+150118|Lurigancho|Lurigancho / Lima  / Lima|150100|150000
+150119|Lurin|Lurin / Lima  / Lima|150100|150000
+150120|Magdalena del Mar|Magdalena del Mar / Lima  / Lima|150100|150000
+150121|Pueblo Libre|Pueblo Libre / Lima  / Lima|150100|150000
+150122|Miraflores|Miraflores / Lima  / Lima|150100|150000
+150123|Pachacamac|Pachacamac / Lima  / Lima|150100|150000
+150124|Pucusana|Pucusana / Lima  / Lima|150100|150000
+150125|Puente Piedra|Puente Piedra / Lima  / Lima|150100|150000
+150126|Punta Hermosa|Punta Hermosa / Lima  / Lima|150100|150000
+150127|Punta Negra|Punta Negra / Lima  / Lima|150100|150000
+150128|Rímac|Rímac / Lima  / Lima|150100|150000
+150129|San Bartolo|San Bartolo / Lima  / Lima|150100|150000
+150130|San Borja|San Borja / Lima  / Lima|150100|150000
+150131|San Isidro|San Isidro / Lima  / Lima|150100|150000
+150132|San Juan de Lurigancho|San Juan de Lurigancho / Lima  / Lima|150100|150000
+150133|San Juan de Miraflores|San Juan de Miraflores / Lima  / Lima|150100|150000
+150134|San Luis|San Luis / Lima  / Lima|150100|150000
+150135|San Martín de Porres|San Martín de Porres / Lima  / Lima|150100|150000
+150136|San Miguel|San Miguel / Lima  / Lima|150100|150000
+150137|Santa Anita|Santa Anita / Lima  / Lima|150100|150000
+150138|Santa María del Mar|Santa María del Mar / Lima  / Lima|150100|150000
+150139|Santa Rosa|Santa Rosa / Lima  / Lima|150100|150000
+150140|Santiago de Surco|Santiago de Surco / Lima  / Lima|150100|150000
+150141|Surquillo|Surquillo / Lima  / Lima|150100|150000
+150142|Villa El Salvador|Villa El Salvador / Lima  / Lima|150100|150000
+150143|Villa María del Triunfo|Villa María del Triunfo / Lima  / Lima|150100|150000
+150201|Barranca|Barranca / Barranca  / Lima|150200|150000
+150202|Paramonga|Paramonga / Barranca  / Lima|150200|150000
+150203|Pativilca|Pativilca / Barranca  / Lima|150200|150000
+150204|Supe|Supe / Barranca  / Lima|150200|150000
+150205|Supe Puerto|Supe Puerto / Barranca  / Lima|150200|150000
+150301|Cajatambo|Cajatambo / Cajatambo  / Lima|150300|150000
+150302|Copa|Copa / Cajatambo  / Lima|150300|150000
+150303|Gorgor|Gorgor / Cajatambo  / Lima|150300|150000
+150304|Huancapon|Huancapon / Cajatambo  / Lima|150300|150000
+150305|Manas|Manas / Cajatambo  / Lima|150300|150000
+150401|Canta|Canta / Canta  / Lima|150400|150000
+150402|Arahuay|Arahuay / Canta  / Lima|150400|150000
+150403|Huamantanga|Huamantanga / Canta  / Lima|150400|150000
+150404|Huaros|Huaros / Canta  / Lima|150400|150000
+150405|Lachaqui|Lachaqui / Canta  / Lima|150400|150000
+150406|San Buenaventura|San Buenaventura / Canta  / Lima|150400|150000
+150407|Santa Rosa de Quives|Santa Rosa de Quives / Canta  / Lima|150400|150000
+150501|San Vicente de Cañete|San Vicente de Cañete / Cañete  / Lima|150500|150000
+150502|Asia|Asia / Cañete  / Lima|150500|150000
+150503|Calango|Calango / Cañete  / Lima|150500|150000
+150504|Cerro Azul|Cerro Azul / Cañete  / Lima|150500|150000
+150505|Chilca|Chilca / Cañete  / Lima|150500|150000
+150506|Coayllo|Coayllo / Cañete  / Lima|150500|150000
+150507|Imperial|Imperial / Cañete  / Lima|150500|150000
+150508|Lunahuana|Lunahuana / Cañete  / Lima|150500|150000
+150509|Mala|Mala / Cañete  / Lima|150500|150000
+150510|Nuevo Imperial|Nuevo Imperial / Cañete  / Lima|150500|150000
+150511|Pacaran|Pacaran / Cañete  / Lima|150500|150000
+150512|Quilmana|Quilmana / Cañete  / Lima|150500|150000
+150513|San Antonio|San Antonio / Cañete  / Lima|150500|150000
+150514|San Luis|San Luis / Cañete  / Lima|150500|150000
+150515|Santa Cruz de Flores|Santa Cruz de Flores / Cañete  / Lima|150500|150000
+150516|Zúñiga|Zúñiga / Cañete  / Lima|150500|150000
+150601|Huaral|Huaral / Huaral  / Lima|150600|150000
+150602|Atavillos Alto|Atavillos Alto / Huaral  / Lima|150600|150000
+150603|Atavillos Bajo|Atavillos Bajo / Huaral  / Lima|150600|150000
+150604|Aucallama|Aucallama / Huaral  / Lima|150600|150000
+150605|Chancay|Chancay / Huaral  / Lima|150600|150000
+150606|Ihuari|Ihuari / Huaral  / Lima|150600|150000
+150607|Lampian|Lampian / Huaral  / Lima|150600|150000
+150608|Pacaraos|Pacaraos / Huaral  / Lima|150600|150000
+150609|San Miguel de Acos|San Miguel de Acos / Huaral  / Lima|150600|150000
+150610|Santa Cruz de Andamarca|Santa Cruz de Andamarca / Huaral  / Lima|150600|150000
+150611|Sumbilca|Sumbilca / Huaral  / Lima|150600|150000
+150612|Veintisiete de Noviembre|Veintisiete de Noviembre / Huaral  / Lima|150600|150000
+150701|Matucana|Matucana / Huarochirí  / Lima|150700|150000
+150702|Antioquia|Antioquia / Huarochirí  / Lima|150700|150000
+150703|Callahuanca|Callahuanca / Huarochirí  / Lima|150700|150000
+150704|Carampoma|Carampoma / Huarochirí  / Lima|150700|150000
+150705|Chicla|Chicla / Huarochirí  / Lima|150700|150000
+150706|Cuenca|Cuenca / Huarochirí  / Lima|150700|150000
+150707|Huachupampa|Huachupampa / Huarochirí  / Lima|150700|150000
+150708|Huanza|Huanza / Huarochirí  / Lima|150700|150000
+150709|Huarochiri|Huarochiri / Huarochirí  / Lima|150700|150000
+150710|Lahuaytambo|Lahuaytambo / Huarochirí  / Lima|150700|150000
+150711|Langa|Langa / Huarochirí  / Lima|150700|150000
+150712|Laraos|Laraos / Huarochirí  / Lima|150700|150000
+150713|Mariatana|Mariatana / Huarochirí  / Lima|150700|150000
+150714|Ricardo Palma|Ricardo Palma / Huarochirí  / Lima|150700|150000
+150715|San Andrés de Tupicocha|San Andrés de Tupicocha / Huarochirí  / Lima|150700|150000
+150716|San Antonio|San Antonio / Huarochirí  / Lima|150700|150000
+150717|San Bartolomé|San Bartolomé / Huarochirí  / Lima|150700|150000
+150718|San Damian|San Damian / Huarochirí  / Lima|150700|150000
+150719|San Juan de Iris|San Juan de Iris / Huarochirí  / Lima|150700|150000
+150720|San Juan de Tantaranche|San Juan de Tantaranche / Huarochirí  / Lima|150700|150000
+150721|San Lorenzo de Quinti|San Lorenzo de Quinti / Huarochirí  / Lima|150700|150000
+150722|San Mateo|San Mateo / Huarochirí  / Lima|150700|150000
+150723|San Mateo de Otao|San Mateo de Otao / Huarochirí  / Lima|150700|150000
+150724|San Pedro de Casta|San Pedro de Casta / Huarochirí  / Lima|150700|150000
+150725|San Pedro de Huancayre|San Pedro de Huancayre / Huarochirí  / Lima|150700|150000
+150726|Sangallaya|Sangallaya / Huarochirí  / Lima|150700|150000
+150727|Santa Cruz de Cocachacra|Santa Cruz de Cocachacra / Huarochirí  / Lima|150700|150000
+150728|Santa Eulalia|Santa Eulalia / Huarochirí  / Lima|150700|150000
+150729|Santiago de Anchucaya|Santiago de Anchucaya / Huarochirí  / Lima|150700|150000
+150730|Santiago de Tuna|Santiago de Tuna / Huarochirí  / Lima|150700|150000
+150731|Santo Domingo de Los Olleros|Santo Domingo de Los Olleros / Huarochirí  / Lima|150700|150000
+150732|Surco|Surco / Huarochirí  / Lima|150700|150000
+150801|Huacho|Huacho / Huaura  / Lima|150800|150000
+150802|Ambar|Ambar / Huaura  / Lima|150800|150000
+150803|Caleta de Carquin|Caleta de Carquin / Huaura  / Lima|150800|150000
+150804|Checras|Checras / Huaura  / Lima|150800|150000
+150805|Hualmay|Hualmay / Huaura  / Lima|150800|150000
+150806|Huaura|Huaura / Huaura  / Lima|150800|150000
+150807|Leoncio Prado|Leoncio Prado / Huaura  / Lima|150800|150000
+150808|Paccho|Paccho / Huaura  / Lima|150800|150000
+150809|Santa Leonor|Santa Leonor / Huaura  / Lima|150800|150000
+150810|Santa María|Santa María / Huaura  / Lima|150800|150000
+150811|Sayan|Sayan / Huaura  / Lima|150800|150000
+150812|Vegueta|Vegueta / Huaura  / Lima|150800|150000
+150901|Oyon|Oyon / Oyón  / Lima|150900|150000
+150902|Andajes|Andajes / Oyón  / Lima|150900|150000
+150903|Caujul|Caujul / Oyón  / Lima|150900|150000
+150904|Cochamarca|Cochamarca / Oyón  / Lima|150900|150000
+150905|Navan|Navan / Oyón  / Lima|150900|150000
+150906|Pachangara|Pachangara / Oyón  / Lima|150900|150000
+151001|Yauyos|Yauyos / Yauyos  / Lima|151000|150000
+151002|Alis|Alis / Yauyos  / Lima|151000|150000
+151003|Allauca|Allauca / Yauyos  / Lima|151000|150000
+151004|Ayaviri|Ayaviri / Yauyos  / Lima|151000|150000
+151005|Azángaro|Azángaro / Yauyos  / Lima|151000|150000
+151006|Cacra|Cacra / Yauyos  / Lima|151000|150000
+151007|Carania|Carania / Yauyos  / Lima|151000|150000
+151008|Catahuasi|Catahuasi / Yauyos  / Lima|151000|150000
+151009|Chocos|Chocos / Yauyos  / Lima|151000|150000
+151010|Cochas|Cochas / Yauyos  / Lima|151000|150000
+151011|Colonia|Colonia / Yauyos  / Lima|151000|150000
+151012|Hongos|Hongos / Yauyos  / Lima|151000|150000
+151013|Huampara|Huampara / Yauyos  / Lima|151000|150000
+151014|Huancaya|Huancaya / Yauyos  / Lima|151000|150000
+151015|Huangascar|Huangascar / Yauyos  / Lima|151000|150000
+151016|Huantan|Huantan / Yauyos  / Lima|151000|150000
+151017|Huañec|Huañec / Yauyos  / Lima|151000|150000
+151018|Laraos|Laraos / Yauyos  / Lima|151000|150000
+151019|Lincha|Lincha / Yauyos  / Lima|151000|150000
+151020|Madean|Madean / Yauyos  / Lima|151000|150000
+151021|Miraflores|Miraflores / Yauyos  / Lima|151000|150000
+151022|Omas|Omas / Yauyos  / Lima|151000|150000
+151023|Putinza|Putinza / Yauyos  / Lima|151000|150000
+151024|Quinches|Quinches / Yauyos  / Lima|151000|150000
+151025|Quinocay|Quinocay / Yauyos  / Lima|151000|150000
+151026|San Joaquín|San Joaquín / Yauyos  / Lima|151000|150000
+151027|San Pedro de Pilas|San Pedro de Pilas / Yauyos  / Lima|151000|150000
+151028|Tanta|Tanta / Yauyos  / Lima|151000|150000
+151029|Tauripampa|Tauripampa / Yauyos  / Lima|151000|150000
+151030|Tomas|Tomas / Yauyos  / Lima|151000|150000
+151031|Tupe|Tupe / Yauyos  / Lima|151000|150000
+151032|Viñac|Viñac / Yauyos  / Lima|151000|150000
+151033|Vitis|Vitis / Yauyos  / Lima|151000|150000
+160101|Iquitos|Iquitos / Maynas  / Loreto|160100|160000
+160102|Alto Nanay|Alto Nanay / Maynas  / Loreto|160100|160000
+160103|Fernando Lores|Fernando Lores / Maynas  / Loreto|160100|160000
+160104|Indiana|Indiana / Maynas  / Loreto|160100|160000
+160105|Las Amazonas|Las Amazonas / Maynas  / Loreto|160100|160000
+160106|Mazan|Mazan / Maynas  / Loreto|160100|160000
+160107|Napo|Napo / Maynas  / Loreto|160100|160000
+160108|Punchana|Punchana / Maynas  / Loreto|160100|160000
+160110|Torres Causana|Torres Causana / Maynas  / Loreto|160100|160000
+160112|Belén|Belén / Maynas  / Loreto|160100|160000
+160113|San Juan Bautista|San Juan Bautista / Maynas  / Loreto|160100|160000
+160201|Yurimaguas|Yurimaguas / Alto Amazonas  / Loreto|160200|160000
+160202|Balsapuerto|Balsapuerto / Alto Amazonas  / Loreto|160200|160000
+160205|Jeberos|Jeberos / Alto Amazonas  / Loreto|160200|160000
+160206|Lagunas|Lagunas / Alto Amazonas  / Loreto|160200|160000
+160210|Santa Cruz|Santa Cruz / Alto Amazonas  / Loreto|160200|160000
+160211|Teniente Cesar López Rojas|Teniente Cesar López Rojas / Alto Amazonas  / Loreto|160200|160000
+160301|Nauta|Nauta / Loreto  / Loreto|160300|160000
+160302|Parinari|Parinari / Loreto  / Loreto|160300|160000
+160303|Tigre|Tigre / Loreto  / Loreto|160300|160000
+160304|Trompeteros|Trompeteros / Loreto  / Loreto|160300|160000
+160305|Urarinas|Urarinas / Loreto  / Loreto|160300|160000
+160401|Ramón Castilla|Ramón Castilla / Mariscal Ramón Castilla  / Loreto|160400|160000
+160402|Pebas|Pebas / Mariscal Ramón Castilla  / Loreto|160400|160000
+160403|Yavari|Yavari / Mariscal Ramón Castilla  / Loreto|160400|160000
+160404|San Pablo|San Pablo / Mariscal Ramón Castilla  / Loreto|160400|160000
+160501|Requena|Requena / Requena  / Loreto|160500|160000
+160502|Alto Tapiche|Alto Tapiche / Requena  / Loreto|160500|160000
+160503|Capelo|Capelo / Requena  / Loreto|160500|160000
+160504|Emilio San Martín|Emilio San Martín / Requena  / Loreto|160500|160000
+160505|Maquia|Maquia / Requena  / Loreto|160500|160000
+160506|Puinahua|Puinahua / Requena  / Loreto|160500|160000
+160507|Saquena|Saquena / Requena  / Loreto|160500|160000
+160508|Soplin|Soplin / Requena  / Loreto|160500|160000
+160509|Tapiche|Tapiche / Requena  / Loreto|160500|160000
+160510|Jenaro Herrera|Jenaro Herrera / Requena  / Loreto|160500|160000
+160511|Yaquerana|Yaquerana / Requena  / Loreto|160500|160000
+160601|Contamana|Contamana / Ucayali  / Loreto|160600|160000
+160602|Inahuaya|Inahuaya / Ucayali  / Loreto|160600|160000
+160603|Padre Márquez|Padre Márquez / Ucayali  / Loreto|160600|160000
+160604|Pampa Hermosa|Pampa Hermosa / Ucayali  / Loreto|160600|160000
+160605|Sarayacu|Sarayacu / Ucayali  / Loreto|160600|160000
+160606|Vargas Guerra|Vargas Guerra / Ucayali  / Loreto|160600|160000
+160701|Barranca|Barranca / Datem del Marañón  / Loreto|160700|160000
+160702|Cahuapanas|Cahuapanas / Datem del Marañón  / Loreto|160700|160000
+160703|Manseriche|Manseriche / Datem del Marañón  / Loreto|160700|160000
+160704|Morona|Morona / Datem del Marañón  / Loreto|160700|160000
+160705|Pastaza|Pastaza / Datem del Marañón  / Loreto|160700|160000
+160706|Andoas|Andoas / Datem del Marañón  / Loreto|160700|160000
+160801|Putumayo|Putumayo / Putumayo / Loreto|160800|160000
+160802|Rosa Panduro|Rosa Panduro / Putumayo / Loreto|160800|160000
+160803|Teniente Manuel Clavero|Teniente Manuel Clavero / Putumayo / Loreto|160800|160000
+160804|Yaguas|Yaguas / Putumayo / Loreto|160800|160000
+170101|Tambopata|Tambopata / Tambopata  / Madre de Dios|170100|170000
+170102|Inambari|Inambari / Tambopata  / Madre de Dios|170100|170000
+170103|Las Piedras|Las Piedras / Tambopata  / Madre de Dios|170100|170000
+170104|Laberinto|Laberinto / Tambopata  / Madre de Dios|170100|170000
+170201|Manu|Manu / Manu  / Madre de Dios|170200|170000
+170202|Fitzcarrald|Fitzcarrald / Manu  / Madre de Dios|170200|170000
+170203|Madre de Dios|Madre de Dios / Manu  / Madre de Dios|170200|170000
+170204|Huepetuhe|Huepetuhe / Manu  / Madre de Dios|170200|170000
+170301|Iñapari|Iñapari / Tahuamanu  / Madre de Dios|170300|170000
+170302|Iberia|Iberia / Tahuamanu  / Madre de Dios|170300|170000
+170303|Tahuamanu|Tahuamanu / Tahuamanu  / Madre de Dios|170300|170000
+180101|Moquegua|Moquegua / Mariscal Nieto  / Moquegua|180100|180000
+180102|Carumas|Carumas / Mariscal Nieto  / Moquegua|180100|180000
+180103|Cuchumbaya|Cuchumbaya / Mariscal Nieto  / Moquegua|180100|180000
+180104|Samegua|Samegua / Mariscal Nieto  / Moquegua|180100|180000
+180105|San Cristóbal|San Cristóbal / Mariscal Nieto  / Moquegua|180100|180000
+180106|Torata|Torata / Mariscal Nieto  / Moquegua|180100|180000
+180201|Omate|Omate / General Sánchez Cerro  / Moquegua|180200|180000
+180202|Chojata|Chojata / General Sánchez Cerro  / Moquegua|180200|180000
+180203|Coalaque|Coalaque / General Sánchez Cerro  / Moquegua|180200|180000
+180204|Ichuña|Ichuña / General Sánchez Cerro  / Moquegua|180200|180000
+180205|La Capilla|La Capilla / General Sánchez Cerro  / Moquegua|180200|180000
+180206|Lloque|Lloque / General Sánchez Cerro  / Moquegua|180200|180000
+180207|Matalaque|Matalaque / General Sánchez Cerro  / Moquegua|180200|180000
+180208|Puquina|Puquina / General Sánchez Cerro  / Moquegua|180200|180000
+180209|Quinistaquillas|Quinistaquillas / General Sánchez Cerro  / Moquegua|180200|180000
+180210|Ubinas|Ubinas / General Sánchez Cerro  / Moquegua|180200|180000
+180211|Yunga|Yunga / General Sánchez Cerro  / Moquegua|180200|180000
+180301|Ilo|Ilo / Ilo  / Moquegua|180300|180000
+180302|El Algarrobal|El Algarrobal / Ilo  / Moquegua|180300|180000
+180303|Pacocha|Pacocha / Ilo  / Moquegua|180300|180000
+190101|Chaupimarca|Chaupimarca / Pasco  / Pasco|190100|190000
+190102|Huachon|Huachon / Pasco  / Pasco|190100|190000
+190103|Huariaca|Huariaca / Pasco  / Pasco|190100|190000
+190104|Huayllay|Huayllay / Pasco  / Pasco|190100|190000
+190105|Ninacaca|Ninacaca / Pasco  / Pasco|190100|190000
+190106|Pallanchacra|Pallanchacra / Pasco  / Pasco|190100|190000
+190107|Paucartambo|Paucartambo / Pasco  / Pasco|190100|190000
+190108|San Francisco de Asís de Yarusyacan|San Francisco de Asís de Yarusyacan / Pasco  / Pasco|190100|190000
+190109|Simon Bolívar|Simon Bolívar / Pasco  / Pasco|190100|190000
+190110|Ticlacayan|Ticlacayan / Pasco  / Pasco|190100|190000
+190111|Tinyahuarco|Tinyahuarco / Pasco  / Pasco|190100|190000
+190112|Vicco|Vicco / Pasco  / Pasco|190100|190000
+190113|Yanacancha|Yanacancha / Pasco  / Pasco|190100|190000
+190201|Yanahuanca|Yanahuanca / Daniel Alcides Carrión  / Pasco|190200|190000
+190202|Chacayan|Chacayan / Daniel Alcides Carrión  / Pasco|190200|190000
+190203|Goyllarisquizga|Goyllarisquizga / Daniel Alcides Carrión  / Pasco|190200|190000
+190204|Paucar|Paucar / Daniel Alcides Carrión  / Pasco|190200|190000
+190205|San Pedro de Pillao|San Pedro de Pillao / Daniel Alcides Carrión  / Pasco|190200|190000
+190206|Santa Ana de Tusi|Santa Ana de Tusi / Daniel Alcides Carrión  / Pasco|190200|190000
+190207|Tapuc|Tapuc / Daniel Alcides Carrión  / Pasco|190200|190000
+190208|Vilcabamba|Vilcabamba / Daniel Alcides Carrión  / Pasco|190200|190000
+190301|Oxapampa|Oxapampa / Oxapampa  / Pasco|190300|190000
+190302|Chontabamba|Chontabamba / Oxapampa  / Pasco|190300|190000
+190303|Huancabamba|Huancabamba / Oxapampa  / Pasco|190300|190000
+190304|Palcazu|Palcazu / Oxapampa  / Pasco|190300|190000
+190305|Pozuzo|Pozuzo / Oxapampa  / Pasco|190300|190000
+190306|Puerto Bermúdez|Puerto Bermúdez / Oxapampa  / Pasco|190300|190000
+190307|Villa Rica|Villa Rica / Oxapampa  / Pasco|190300|190000
+190308|Constitución|Constitución / Oxapampa  / Pasco|190300|190000
+200101|Piura|Piura / Piura  / Piura|200100|200000
+200104|Castilla|Castilla / Piura  / Piura|200100|200000
+200105|Catacaos|Catacaos / Piura  / Piura|200100|200000
+200107|Cura Mori|Cura Mori / Piura  / Piura|200100|200000
+200108|El Tallan|El Tallan / Piura  / Piura|200100|200000
+200109|La Arena|La Arena / Piura  / Piura|200100|200000
+200110|La Unión|La Unión / Piura  / Piura|200100|200000
+200111|Las Lomas|Las Lomas / Piura  / Piura|200100|200000
+200114|Tambo Grande|Tambo Grande / Piura  / Piura|200100|200000
+200115|Veintiseis de Octubre|Veintiseis de Octubre / Piura  / Piura|200100|200000
+200201|Ayabaca|Ayabaca / Ayabaca  / Piura|200200|200000
+200202|Frias|Frias / Ayabaca  / Piura|200200|200000
+200203|Jilili|Jilili / Ayabaca  / Piura|200200|200000
+200204|Lagunas|Lagunas / Ayabaca  / Piura|200200|200000
+200205|Montero|Montero / Ayabaca  / Piura|200200|200000
+200206|Pacaipampa|Pacaipampa / Ayabaca  / Piura|200200|200000
+200207|Paimas|Paimas / Ayabaca  / Piura|200200|200000
+200208|Sapillica|Sapillica / Ayabaca  / Piura|200200|200000
+200209|Sicchez|Sicchez / Ayabaca  / Piura|200200|200000
+200210|Suyo|Suyo / Ayabaca  / Piura|200200|200000
+200301|Huancabamba|Huancabamba / Huancabamba  / Piura|200300|200000
+200302|Canchaque|Canchaque / Huancabamba  / Piura|200300|200000
+200303|El Carmen de la Frontera|El Carmen de la Frontera / Huancabamba  / Piura|200300|200000
+200304|Huarmaca|Huarmaca / Huancabamba  / Piura|200300|200000
+200305|Lalaquiz|Lalaquiz / Huancabamba  / Piura|200300|200000
+200306|San Miguel de El Faique|San Miguel de El Faique / Huancabamba  / Piura|200300|200000
+200307|Sondor|Sondor / Huancabamba  / Piura|200300|200000
+200308|Sondorillo|Sondorillo / Huancabamba  / Piura|200300|200000
+200401|Chulucanas|Chulucanas / Morropón  / Piura|200400|200000
+200402|Buenos Aires|Buenos Aires / Morropón  / Piura|200400|200000
+200403|Chalaco|Chalaco / Morropón  / Piura|200400|200000
+200404|La Matanza|La Matanza / Morropón  / Piura|200400|200000
+200405|Morropon|Morropon / Morropón  / Piura|200400|200000
+200406|Salitral|Salitral / Morropón  / Piura|200400|200000
+200407|San Juan de Bigote|San Juan de Bigote / Morropón  / Piura|200400|200000
+200408|Santa Catalina de Mossa|Santa Catalina de Mossa / Morropón  / Piura|200400|200000
+200409|Santo Domingo|Santo Domingo / Morropón  / Piura|200400|200000
+200410|Yamango|Yamango / Morropón  / Piura|200400|200000
+200501|Paita|Paita / Paita  / Piura|200500|200000
+200502|Amotape|Amotape / Paita  / Piura|200500|200000
+200503|Arenal|Arenal / Paita  / Piura|200500|200000
+200504|Colan|Colan / Paita  / Piura|200500|200000
+200505|La Huaca|La Huaca / Paita  / Piura|200500|200000
+200506|Tamarindo|Tamarindo / Paita  / Piura|200500|200000
+200507|Vichayal|Vichayal / Paita  / Piura|200500|200000
+200601|Sullana|Sullana / Sullana  / Piura|200600|200000
+200602|Bellavista|Bellavista / Sullana  / Piura|200600|200000
+200603|Ignacio Escudero|Ignacio Escudero / Sullana  / Piura|200600|200000
+200604|Lancones|Lancones / Sullana  / Piura|200600|200000
+200605|Marcavelica|Marcavelica / Sullana  / Piura|200600|200000
+200606|Miguel Checa|Miguel Checa / Sullana  / Piura|200600|200000
+200607|Querecotillo|Querecotillo / Sullana  / Piura|200600|200000
+200608|Salitral|Salitral / Sullana  / Piura|200600|200000
+200701|Pariñas|Pariñas / Talara  / Piura|200700|200000
+200702|El Alto|El Alto / Talara  / Piura|200700|200000
+200703|La Brea|La Brea / Talara  / Piura|200700|200000
+200704|Lobitos|Lobitos / Talara  / Piura|200700|200000
+200705|Los Organos|Los Organos / Talara  / Piura|200700|200000
+200706|Mancora|Mancora / Talara  / Piura|200700|200000
+200801|Sechura|Sechura / Sechura  / Piura|200800|200000
+200802|Bellavista de la Unión|Bellavista de la Unión / Sechura  / Piura|200800|200000
+200803|Bernal|Bernal / Sechura  / Piura|200800|200000
+200804|Cristo Nos Valga|Cristo Nos Valga / Sechura  / Piura|200800|200000
+200805|Vice|Vice / Sechura  / Piura|200800|200000
+200806|Rinconada Llicuar|Rinconada Llicuar / Sechura  / Piura|200800|200000
+210101|Puno|Puno / Puno  / Puno|210100|210000
+210102|Acora|Acora / Puno  / Puno|210100|210000
+210103|Amantani|Amantani / Puno  / Puno|210100|210000
+210104|Atuncolla|Atuncolla / Puno  / Puno|210100|210000
+210105|Capachica|Capachica / Puno  / Puno|210100|210000
+210106|Chucuito|Chucuito / Puno  / Puno|210100|210000
+210107|Coata|Coata / Puno  / Puno|210100|210000
+210108|Huata|Huata / Puno  / Puno|210100|210000
+210109|Mañazo|Mañazo / Puno  / Puno|210100|210000
+210110|Paucarcolla|Paucarcolla / Puno  / Puno|210100|210000
+210111|Pichacani|Pichacani / Puno  / Puno|210100|210000
+210112|Plateria|Plateria / Puno  / Puno|210100|210000
+210113|San Antonio|San Antonio / Puno  / Puno|210100|210000
+210114|Tiquillaca|Tiquillaca / Puno  / Puno|210100|210000
+210115|Vilque|Vilque / Puno  / Puno|210100|210000
+210201|Azángaro|Azángaro / Azángaro  / Puno|210200|210000
+210202|Achaya|Achaya / Azángaro  / Puno|210200|210000
+210203|Arapa|Arapa / Azángaro  / Puno|210200|210000
+210204|Asillo|Asillo / Azángaro  / Puno|210200|210000
+210205|Caminaca|Caminaca / Azángaro  / Puno|210200|210000
+210206|Chupa|Chupa / Azángaro  / Puno|210200|210000
+210207|José Domingo Choquehuanca|José Domingo Choquehuanca / Azángaro  / Puno|210200|210000
+210208|Muñani|Muñani / Azángaro  / Puno|210200|210000
+210209|Potoni|Potoni / Azángaro  / Puno|210200|210000
+210210|Saman|Saman / Azángaro  / Puno|210200|210000
+210211|San Anton|San Anton / Azángaro  / Puno|210200|210000
+210212|San José|San José / Azángaro  / Puno|210200|210000
+210213|San Juan de Salinas|San Juan de Salinas / Azángaro  / Puno|210200|210000
+210214|Santiago de Pupuja|Santiago de Pupuja / Azángaro  / Puno|210200|210000
+210215|Tirapata|Tirapata / Azángaro  / Puno|210200|210000
+210301|Macusani|Macusani / Carabaya  / Puno|210300|210000
+210302|Ajoyani|Ajoyani / Carabaya  / Puno|210300|210000
+210303|Ayapata|Ayapata / Carabaya  / Puno|210300|210000
+210304|Coasa|Coasa / Carabaya  / Puno|210300|210000
+210305|Corani|Corani / Carabaya  / Puno|210300|210000
+210306|Crucero|Crucero / Carabaya  / Puno|210300|210000
+210307|Ituata|Ituata / Carabaya  / Puno|210300|210000
+210308|Ollachea|Ollachea / Carabaya  / Puno|210300|210000
+210309|San Gaban|San Gaban / Carabaya  / Puno|210300|210000
+210310|Usicayos|Usicayos / Carabaya  / Puno|210300|210000
+210401|Juli|Juli / Chucuito  / Puno|210400|210000
+210402|Desaguadero|Desaguadero / Chucuito  / Puno|210400|210000
+210403|Huacullani|Huacullani / Chucuito  / Puno|210400|210000
+210404|Kelluyo|Kelluyo / Chucuito  / Puno|210400|210000
+210405|Pisacoma|Pisacoma / Chucuito  / Puno|210400|210000
+210406|Pomata|Pomata / Chucuito  / Puno|210400|210000
+210407|Zepita|Zepita / Chucuito  / Puno|210400|210000
+210501|Ilave|Ilave / El Collao  / Puno|210500|210000
+210502|Capazo|Capazo / El Collao  / Puno|210500|210000
+210503|Pilcuyo|Pilcuyo / El Collao  / Puno|210500|210000
+210504|Santa Rosa|Santa Rosa / El Collao  / Puno|210500|210000
+210505|Conduriri|Conduriri / El Collao  / Puno|210500|210000
+210601|Huancane|Huancane / Huancané  / Puno|210600|210000
+210602|Cojata|Cojata / Huancané  / Puno|210600|210000
+210603|Huatasani|Huatasani / Huancané  / Puno|210600|210000
+210604|Inchupalla|Inchupalla / Huancané  / Puno|210600|210000
+210605|Pusi|Pusi / Huancané  / Puno|210600|210000
+210606|Rosaspata|Rosaspata / Huancané  / Puno|210600|210000
+210607|Taraco|Taraco / Huancané  / Puno|210600|210000
+210608|Vilque Chico|Vilque Chico / Huancané  / Puno|210600|210000
+210701|Lampa|Lampa / Lampa  / Puno|210700|210000
+210702|Cabanilla|Cabanilla / Lampa  / Puno|210700|210000
+210703|Calapuja|Calapuja / Lampa  / Puno|210700|210000
+210704|Nicasio|Nicasio / Lampa  / Puno|210700|210000
+210705|Ocuviri|Ocuviri / Lampa  / Puno|210700|210000
+210706|Palca|Palca / Lampa  / Puno|210700|210000
+210707|Paratia|Paratia / Lampa  / Puno|210700|210000
+210708|Pucara|Pucara / Lampa  / Puno|210700|210000
+210709|Santa Lucia|Santa Lucia / Lampa  / Puno|210700|210000
+210710|Vilavila|Vilavila / Lampa  / Puno|210700|210000
+210801|Ayaviri|Ayaviri / Melgar  / Puno|210800|210000
+210802|Antauta|Antauta / Melgar  / Puno|210800|210000
+210803|Cupi|Cupi / Melgar  / Puno|210800|210000
+210804|Llalli|Llalli / Melgar  / Puno|210800|210000
+210805|Macari|Macari / Melgar  / Puno|210800|210000
+210806|Nuñoa|Nuñoa / Melgar  / Puno|210800|210000
+210807|Orurillo|Orurillo / Melgar  / Puno|210800|210000
+210808|Santa Rosa|Santa Rosa / Melgar  / Puno|210800|210000
+210809|Umachiri|Umachiri / Melgar  / Puno|210800|210000
+210901|Moho|Moho / Moho  / Puno|210900|210000
+210902|Conima|Conima / Moho  / Puno|210900|210000
+210903|Huayrapata|Huayrapata / Moho  / Puno|210900|210000
+210904|Tilali|Tilali / Moho  / Puno|210900|210000
+211001|Putina|Putina / San Antonio de Putina  / Puno|211000|210000
+211002|Ananea|Ananea / San Antonio de Putina  / Puno|211000|210000
+211003|Pedro Vilca Apaza|Pedro Vilca Apaza / San Antonio de Putina  / Puno|211000|210000
+211004|Quilcapuncu|Quilcapuncu / San Antonio de Putina  / Puno|211000|210000
+211005|Sina|Sina / San Antonio de Putina  / Puno|211000|210000
+211101|Juliaca|Juliaca / San Román  / Puno|211100|210000
+211102|Cabana|Cabana / San Román  / Puno|211100|210000
+211103|Cabanillas|Cabanillas / San Román  / Puno|211100|210000
+211104|Caracoto|Caracoto / San Román  / Puno|211100|210000
+211105|San Miguel|San Miguel / San Román  / Puno|211100|210000
+211201|Sandia|Sandia / Sandia  / Puno|211200|210000
+211202|Cuyocuyo|Cuyocuyo / Sandia  / Puno|211200|210000
+211203|Limbani|Limbani / Sandia  / Puno|211200|210000
+211204|Patambuco|Patambuco / Sandia  / Puno|211200|210000
+211205|Phara|Phara / Sandia  / Puno|211200|210000
+211206|Quiaca|Quiaca / Sandia  / Puno|211200|210000
+211207|San Juan del Oro|San Juan del Oro / Sandia  / Puno|211200|210000
+211208|Yanahuaya|Yanahuaya / Sandia  / Puno|211200|210000
+211209|Alto Inambari|Alto Inambari / Sandia  / Puno|211200|210000
+211210|San Pedro de Putina Punco|San Pedro de Putina Punco / Sandia  / Puno|211200|210000
+211301|Yunguyo|Yunguyo / Yunguyo  / Puno|211300|210000
+211302|Anapia|Anapia / Yunguyo  / Puno|211300|210000
+211303|Copani|Copani / Yunguyo  / Puno|211300|210000
+211304|Cuturapi|Cuturapi / Yunguyo  / Puno|211300|210000
+211305|Ollaraya|Ollaraya / Yunguyo  / Puno|211300|210000
+211306|Tinicachi|Tinicachi / Yunguyo  / Puno|211300|210000
+211307|Unicachi|Unicachi / Yunguyo  / Puno|211300|210000
+220101|Moyobamba|Moyobamba / Moyobamba  / San Martín|220100|220000
+220102|Calzada|Calzada / Moyobamba  / San Martín|220100|220000
+220103|Habana|Habana / Moyobamba  / San Martín|220100|220000
+220104|Jepelacio|Jepelacio / Moyobamba  / San Martín|220100|220000
+220105|Soritor|Soritor / Moyobamba  / San Martín|220100|220000
+220106|Yantalo|Yantalo / Moyobamba  / San Martín|220100|220000
+220201|Bellavista|Bellavista / Bellavista  / San Martín|220200|220000
+220202|Alto Biavo|Alto Biavo / Bellavista  / San Martín|220200|220000
+220203|Bajo Biavo|Bajo Biavo / Bellavista  / San Martín|220200|220000
+220204|Huallaga|Huallaga / Bellavista  / San Martín|220200|220000
+220205|San Pablo|San Pablo / Bellavista  / San Martín|220200|220000
+220206|San Rafael|San Rafael / Bellavista  / San Martín|220200|220000
+220301|San José de Sisa|San José de Sisa / El Dorado  / San Martín|220300|220000
+220302|Agua Blanca|Agua Blanca / El Dorado  / San Martín|220300|220000
+220303|San Martín|San Martín / El Dorado  / San Martín|220300|220000
+220304|Santa Rosa|Santa Rosa / El Dorado  / San Martín|220300|220000
+220305|Shatoja|Shatoja / El Dorado  / San Martín|220300|220000
+220401|Saposoa|Saposoa / Huallaga  / San Martín|220400|220000
+220402|Alto Saposoa|Alto Saposoa / Huallaga  / San Martín|220400|220000
+220403|El Eslabón|El Eslabón / Huallaga  / San Martín|220400|220000
+220404|Piscoyacu|Piscoyacu / Huallaga  / San Martín|220400|220000
+220405|Sacanche|Sacanche / Huallaga  / San Martín|220400|220000
+220406|Tingo de Saposoa|Tingo de Saposoa / Huallaga  / San Martín|220400|220000
+220501|Lamas|Lamas / Lamas  / San Martín|220500|220000
+220502|Alonso de Alvarado|Alonso de Alvarado / Lamas  / San Martín|220500|220000
+220503|Barranquita|Barranquita / Lamas  / San Martín|220500|220000
+220504|Caynarachi|Caynarachi / Lamas  / San Martín|220500|220000
+220505|Cuñumbuqui|Cuñumbuqui / Lamas  / San Martín|220500|220000
+220506|Pinto Recodo|Pinto Recodo / Lamas  / San Martín|220500|220000
+220507|Rumisapa|Rumisapa / Lamas  / San Martín|220500|220000
+220508|San Roque de Cumbaza|San Roque de Cumbaza / Lamas  / San Martín|220500|220000
+220509|Shanao|Shanao / Lamas  / San Martín|220500|220000
+220510|Tabalosos|Tabalosos / Lamas  / San Martín|220500|220000
+220511|Zapatero|Zapatero / Lamas  / San Martín|220500|220000
+220601|Juanjuí|Juanjuí / Mariscal Cáceres  / San Martín|220600|220000
+220602|Campanilla|Campanilla / Mariscal Cáceres  / San Martín|220600|220000
+220603|Huicungo|Huicungo / Mariscal Cáceres  / San Martín|220600|220000
+220604|Pachiza|Pachiza / Mariscal Cáceres  / San Martín|220600|220000
+220605|Pajarillo|Pajarillo / Mariscal Cáceres  / San Martín|220600|220000
+220701|Picota|Picota / Picota  / San Martín|220700|220000
+220702|Buenos Aires|Buenos Aires / Picota  / San Martín|220700|220000
+220703|Caspisapa|Caspisapa / Picota  / San Martín|220700|220000
+220704|Pilluana|Pilluana / Picota  / San Martín|220700|220000
+220705|Pucacaca|Pucacaca / Picota  / San Martín|220700|220000
+220706|San Cristóbal|San Cristóbal / Picota  / San Martín|220700|220000
+220707|San Hilarión|San Hilarión / Picota  / San Martín|220700|220000
+220708|Shamboyacu|Shamboyacu / Picota  / San Martín|220700|220000
+220709|Tingo de Ponasa|Tingo de Ponasa / Picota  / San Martín|220700|220000
+220710|Tres Unidos|Tres Unidos / Picota  / San Martín|220700|220000
+220801|Rioja|Rioja / Rioja  / San Martín|220800|220000
+220802|Awajun|Awajun / Rioja  / San Martín|220800|220000
+220803|Elías Soplin Vargas|Elías Soplin Vargas / Rioja  / San Martín|220800|220000
+220804|Nueva Cajamarca|Nueva Cajamarca / Rioja  / San Martín|220800|220000
+220805|Pardo Miguel|Pardo Miguel / Rioja  / San Martín|220800|220000
+220806|Posic|Posic / Rioja  / San Martín|220800|220000
+220807|San Fernando|San Fernando / Rioja  / San Martín|220800|220000
+220808|Yorongos|Yorongos / Rioja  / San Martín|220800|220000
+220809|Yuracyacu|Yuracyacu / Rioja  / San Martín|220800|220000
+220901|Tarapoto|Tarapoto / San Martín  / San Martín|220900|220000
+220902|Alberto Leveau|Alberto Leveau / San Martín  / San Martín|220900|220000
+220903|Cacatachi|Cacatachi / San Martín  / San Martín|220900|220000
+220904|Chazuta|Chazuta / San Martín  / San Martín|220900|220000
+220905|Chipurana|Chipurana / San Martín  / San Martín|220900|220000
+220906|El Porvenir|El Porvenir / San Martín  / San Martín|220900|220000
+220907|Huimbayoc|Huimbayoc / San Martín  / San Martín|220900|220000
+220908|Juan Guerra|Juan Guerra / San Martín  / San Martín|220900|220000
+220909|La Banda de Shilcayo|La Banda de Shilcayo / San Martín  / San Martín|220900|220000
+220910|Morales|Morales / San Martín  / San Martín|220900|220000
+220911|Papaplaya|Papaplaya / San Martín  / San Martín|220900|220000
+220912|San Antonio|San Antonio / San Martín  / San Martín|220900|220000
+220913|Sauce|Sauce / San Martín  / San Martín|220900|220000
+220914|Shapaja|Shapaja / San Martín  / San Martín|220900|220000
+221001|Tocache|Tocache / Tocache  / San Martín|221000|220000
+221002|Nuevo Progreso|Nuevo Progreso / Tocache  / San Martín|221000|220000
+221003|Polvora|Polvora / Tocache  / San Martín|221000|220000
+221004|Shunte|Shunte / Tocache  / San Martín|221000|220000
+221005|Uchiza|Uchiza / Tocache  / San Martín|221000|220000
+230101|Tacna|Tacna / Tacna  / Tacna|230100|230000
+230102|Alto de la Alianza|Alto de la Alianza / Tacna  / Tacna|230100|230000
+230103|Calana|Calana / Tacna  / Tacna|230100|230000
+230104|Ciudad Nueva|Ciudad Nueva / Tacna  / Tacna|230100|230000
+230105|Inclan|Inclan / Tacna  / Tacna|230100|230000
+230106|Pachia|Pachia / Tacna  / Tacna|230100|230000
+230107|Palca|Palca / Tacna  / Tacna|230100|230000
+230108|Pocollay|Pocollay / Tacna  / Tacna|230100|230000
+230109|Sama|Sama / Tacna  / Tacna|230100|230000
+230110|Coronel Gregorio Albarracín Lanchipa|Coronel Gregorio Albarracín Lanchipa / Tacna  / Tacna|230100|230000
+230111|La Yarada los Palos|La Yarada los Palos / Tacna  / Tacna|230100|230000
+230201|Candarave|Candarave / Candarave  / Tacna|230200|230000
+230202|Cairani|Cairani / Candarave  / Tacna|230200|230000
+230203|Camilaca|Camilaca / Candarave  / Tacna|230200|230000
+230204|Curibaya|Curibaya / Candarave  / Tacna|230200|230000
+230205|Huanuara|Huanuara / Candarave  / Tacna|230200|230000
+230206|Quilahuani|Quilahuani / Candarave  / Tacna|230200|230000
+230301|Locumba|Locumba / Jorge Basadre  / Tacna|230300|230000
+230302|Ilabaya|Ilabaya / Jorge Basadre  / Tacna|230300|230000
+230303|Ite|Ite / Jorge Basadre  / Tacna|230300|230000
+230401|Tarata|Tarata / Tarata  / Tacna|230400|230000
+230402|Héroes Albarracín|Héroes Albarracín / Tarata  / Tacna|230400|230000
+230403|Estique|Estique / Tarata  / Tacna|230400|230000
+230404|Estique-Pampa|Estique-Pampa / Tarata  / Tacna|230400|230000
+230405|Sitajara|Sitajara / Tarata  / Tacna|230400|230000
+230406|Susapaya|Susapaya / Tarata  / Tacna|230400|230000
+230407|Tarucachi|Tarucachi / Tarata  / Tacna|230400|230000
+230408|Ticaco|Ticaco / Tarata  / Tacna|230400|230000
+240101|Tumbes|Tumbes / Tumbes  / Tumbes|240100|240000
+240102|Corrales|Corrales / Tumbes  / Tumbes|240100|240000
+240103|La Cruz|La Cruz / Tumbes  / Tumbes|240100|240000
+240104|Pampas de Hospital|Pampas de Hospital / Tumbes  / Tumbes|240100|240000
+240105|San Jacinto|San Jacinto / Tumbes  / Tumbes|240100|240000
+240106|San Juan de la Virgen|San Juan de la Virgen / Tumbes  / Tumbes|240100|240000
+240201|Zorritos|Zorritos / Contralmirante Villar  / Tumbes|240200|240000
+240202|Casitas|Casitas / Contralmirante Villar  / Tumbes|240200|240000
+240203|Canoas de Punta Sal|Canoas de Punta Sal / Contralmirante Villar  / Tumbes|240200|240000
+240301|Zarumilla|Zarumilla / Zarumilla  / Tumbes|240300|240000
+240302|Aguas Verdes|Aguas Verdes / Zarumilla  / Tumbes|240300|240000
+240303|Matapalo|Matapalo / Zarumilla  / Tumbes|240300|240000
+240304|Papayal|Papayal / Zarumilla  / Tumbes|240300|240000
+250101|Calleria|Calleria / Coronel Portillo  / Ucayali|250100|250000
+250102|Campoverde|Campoverde / Coronel Portillo  / Ucayali|250100|250000
+250103|Iparia|Iparia / Coronel Portillo  / Ucayali|250100|250000
+250104|Masisea|Masisea / Coronel Portillo  / Ucayali|250100|250000
+250105|Yarinacocha|Yarinacocha / Coronel Portillo  / Ucayali|250100|250000
+250106|Nueva Requena|Nueva Requena / Coronel Portillo  / Ucayali|250100|250000
+250107|Manantay|Manantay / Coronel Portillo  / Ucayali|250100|250000
+250201|Raymondi|Raymondi / Atalaya  / Ucayali|250200|250000
+250202|Sepahua|Sepahua / Atalaya  / Ucayali|250200|250000
+250203|Tahuania|Tahuania / Atalaya  / Ucayali|250200|250000
+250204|Yurua|Yurua / Atalaya  / Ucayali|250200|250000
+250301|Padre Abad|Padre Abad / Padre Abad  / Ucayali|250300|250000
+250302|Irazola|Irazola / Padre Abad  / Ucayali|250300|250000
+250303|Curimana|Curimana / Padre Abad  / Ucayali|250300|250000
+250304|Neshuya|Neshuya / Padre Abad  / Ucayali|250300|250000
+250305|Alexander Von Humboldt|Alexander Von Humboldt / Padre Abad  / Ucayali|250300|250000
+250401|Purús|Purús / Purús / Ucayali|250400|250000
