@@ -1,183 +1,471 @@
+<div align="center">
+
+<img width="220" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
+
+# 🇲🇽 SAT Facturación Electrónica
+
+### Plataforma API para facturación electrónica CFDI 4.0 en México 🚀
+
 <p align="center">
-  <img src="./public/assets/images/sunat.png" alt="SUNAT Logo" width="250">
+  <b>SAT Facturación Electrónica</b> es un sistema moderno diseñado para la generación, administración y validación de comprobantes fiscales digitales CFDI 4.0 compatibles con el SAT de México.
 </p>
 
-# API de Facturación Electrónica SUNAT - Perú
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel 12">
-  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP 8.2+">
-  <img src="https://img.shields.io/badge/Greenter-5.1-4CAF50?style=for-the-badge" alt="Greenter 5.1">
-  <img src="https://img.shields.io/badge/SUNAT-Compatible-0066CC?style=for-the-badge" alt="SUNAT Compatible">
+  <img src="https://img.shields.io/badge/Laravel-12-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/CFDI-4.0-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/SAT-México-006847?style=for-the-badge">
 </p>
 
-Sistema completo de facturación electrónica para SUNAT Perú desarrollado con **Laravel 12** y la librería **Greenter 5.1**. Este proyecto implementa todas las funcionalidades necesarias para la generación, envío y gestión de comprobantes de pago electrónicos según las normativas de SUNAT.
+<p align="center">
+  <a href="#-acerca-del-proyecto">Acerca</a> •
+  <a href="#-características">Características</a> •
+  <a href="#-tecnologías-utilizadas">Tecnologías</a> •
+  <a href="#-instalación">Instalación</a> •
+  <a href="#-roadmap">Roadmap</a>
+</p>
 
-## 🚀 Características Principales
+</div>
 
-### Documentos Electrónicos Soportados
-- ✅ **Facturas** (Tipo 01)
-- ✅ **Boletas de Venta** (Tipo 03) 
+---
 
-### Funcionalidades del Sistema
-- 🏢 **Multi-empresa**: Gestión de múltiples empresas y sucursales
-- 🔐 **Autenticación OAuth2** para APIs de SUNAT
-- 📄 **Generación automática de PDF** con diseño profesional
+# 🌌 Acerca del proyecto
 
-### Tecnologías Utilizadas
-- **Framework**: Laravel 12 con PHP 8.2+
-- **SUNAT Integration**: Greenter 5.1
-- **Base de Datos**: MySQL/PostgreSQL compatible
-- **PDF Generation**: DomPDF con plantillas personalizadas
-- **QR Codes**: Endroid QR Code
-- **Authentication**: Laravel Sanctum
-- **Testing**: PestPHP
+**SAT Facturación Electrónica** es una plataforma backend enfocada en la emisión y administración de comprobantes fiscales digitales CFDI 4.0 para empresas mexicanas.
 
-## 🛠️ Instalación
+El sistema permite:
 
-### Requisitos Previos
-- PHP 8.2 o superior
-- Composer
-- MySQL 8.0+ o PostgreSQL
-- Certificado digital SUNAT (.pfx)
+- 🧾 Generación de CFDI
+- 📄 Facturas electrónicas
+- 📦 Gestión de productos
+- 👥 Administración de clientes
+- 🏢 Multiempresa
+- 📊 Reportes fiscales
+- 📥 Descarga XML y PDF
+- 🔐 Integración segura con SAT
 
-### Pasos de Instalación
+El proyecto fue desarrollado para practicar:
 
-1. **Clonar el repositorio**
+- Desarrollo backend con Laravel
+- APIs REST
+- Arquitectura MVC
+- Integración SAT
+- Seguridad y autenticación
+- Gestión documental electrónica
+
+---
+
+# ✨ Características
+
+## 🧾 Facturación electrónica
+
+- ✅ CFDI 4.0
+- ✅ Facturas electrónicas
+- ✅ Notas de crédito
+- ✅ Notas de débito
+- ✅ Generación XML
+- ✅ Timbrado fiscal
+
+---
+
+## 🏢 Gestión empresarial
+
+- 👥 Multiempresa
+- 🏬 Gestión de sucursales
+- 📋 Administración de clientes
+- 📦 Control de productos
+- 💰 Gestión de ventas
+
+---
+
+## 📄 Gestión documental
+
+- 📥 Descarga XML
+- 🖨️ PDFs profesionales
+- 🔗 Código QR SAT
+- 📨 Envío automático por correo
+- 📂 Historial de comprobantes
+
+---
+
+## 📊 Dashboard administrativo
+
+- 📈 Estadísticas fiscales
+- 💵 Reportes financieros
+- 👥 Gestión de usuarios
+- 📦 Productos más vendidos
+- 🧾 Historial CFDI
+
+---
+
+## 🔒 Seguridad
+
+- 🔑 Autenticación JWT
+- 🛡️ Protección de endpoints
+- 🔒 Encriptación de datos
+- 👨‍💻 Roles y permisos
+- 📜 Validaciones fiscales SAT
+
+---
+
+# 🛠️ Tecnologías utilizadas
+
+## 🌐 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+</p>
+
+- PHP 8.2+
+- Laravel 12
+- Laravel Sanctum
+- REST API
+- Eloquent ORM
+
+---
+
+## 🗄️ Base de datos
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+- MySQL
+- PostgreSQL
+- SQL
+
+---
+
+## 📄 Gestión documental
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+- DomPDF
+- XML CFDI
+- QR Generator
+- Templates PDF
+
+---
+
+## 🐳 DevOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+- Docker
+- Docker Compose
+- Git
+- GitHub
+
+---
+
+# 📂 Estructura del proyecto
+
 ```bash
-git clone clone https://github.com/yorchavez9/Api-de-facturacion-electronica-sunat-Peru.git
-cd Api-de-facturacion-electronica-sunat-Peru
+sat-facturacion/
+│
+├── app/
+│   ├── Models/
+│   ├── Services/
+│   ├── Http/
+│   └── Helpers/
+│
+├── database/
+│   ├── migrations/
+│   └── seeders/
+│
+├── storage/
+│   ├── certificates/
+│   ├── xml/
+│   └── pdf/
+│
+├── routes/
+│   └── api.php
+│
+├── docker/
+│   ├── Dockerfile
+│   └── docker-compose.yml
+│
+└── README.md
 ```
 
-2. **Instalar dependencias**
+---
+
+# ⚡ Instalación
+
+## 📋 Requisitos
+
+- PHP 8.2+
+- Composer
+- MySQL o PostgreSQL
+- Docker
+- Certificados SAT (.cer y .key)
+
+---
+
+# 🚀 Configuración del proyecto
+
+## 1️⃣ Clonar repositorio
+
+```bash
+git clone https://github.com/usuario/sat-facturacion.git
+```
+
+---
+
+## 2️⃣ Entrar al proyecto
+
+```bash
+cd sat-facturacion
+```
+
+---
+
+## 3️⃣ Instalar dependencias
+
 ```bash
 composer install
 ```
 
-3. **Configurar variables de entorno**
+---
+
+## 4️⃣ Configurar variables de entorno
+
 ```bash
 cp .env.example .env
 php artisan key:generate
 ```
 
-4. **Configurar base de datos en .env**
+---
+
+## 5️⃣ Configurar base de datos
+
 ```env
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=facturacion_sunat
-DB_USERNAME=tu_usuario
-DB_PASSWORD=tu_password
+DB_DATABASE=sat_facturacion
+DB_USERNAME=root
+DB_PASSWORD=password
 ```
 
-5. **Ejecutar migraciones**
+---
+
+## 6️⃣ Ejecutar migraciones
+
 ```bash
 php artisan migrate
 ```
 
-6. **Configurar certificados SUNAT**
-- Colocar certificado .pfx en `storage/certificates/`
-- Configurar rutas en el archivo .env
+---
 
-### Conversión de Certificado .pfx a .pem
+## 7️⃣ Configurar certificados SAT
 
-Si necesitas convertir tu certificado de formato .pfx a .pem, ejecuta el siguiente comando en terminal:
+Colocar los certificados:
+
+- `.cer`
+- `.key`
+
+Dentro de:
 
 ```bash
-# Convertir de .PFX a .PEM
-openssl pkcs12 -in certificado.pfx -out certificado_correcto.pem -nodes
+storage/certificates/
 ```
 
-**Nota:** Este comando te pedirá la contraseña de tu certificado .pfx y generará un archivo .pem que puedes usar directamente en el sistema.
+---
 
-## 🏗️ Arquitectura del Sistema
+## 8️⃣ Ejecutar servidor
 
-### Estructura de Modelos
-- **Company**: Empresas emisoras
-- **Branch**: Sucursales por empresa
-- **Client**: Clientes y proveedores
-- **Invoice/Boleta/CreditNote/DebitNote**: Documentos electrónicos
-- **DailySummary**: Resúmenes diarios de boletas
-- **CompanyConfiguration**: Configuraciones por empresa
-
-### Servicios Principales
-- **DocumentService**: Lógica de negocio para documentos
-- **SunatService**: Integración con APIs de SUNAT  
-- **PdfService**: Generación de documentos PDF
-- **FileService**: Gestión de archivos XML/PDF
-- **TaxCalculationService**: Cálculo de impuestos
-- **SeriesService**: Gestión de series documentarias
-
-## 📚 Documentación de la API
-
-### 🎥 Video Tutorial Completo
-**Aprende a implementar el sistema paso a paso:**
-👉 **[Ver Playlist Completa en YouTube](https://www.youtube.com/watch?v=HrrEdjY_7MU&list=PLfwfiNJ5Qw-ZlCfGnWjnILOI4OJfJkGp5)**
-
-Esta playlist incluye:
-- Instalación completa del sistema
-- Configuración de certificados SUNAT
-- Ejemplos reales de implementación
-- Casos de uso prácticos
-- Resolución de problemas comunes
-
-### 📖 Documentación y Ejemplos
-
-**Documentación completa y actualizada:**
-👉 **[https://apigo.apuuraydev.com/](https://apigo.apuuraydev.com/)**
-
-**Ejemplos listos para usar:**
-En el directorio `ejemplos-postman/` encontrarás colecciones completas listas para importar en Postman o herramientas similares, con ejemplos de:
-- Facturas, boletas y notas
-- Guías de remisión
-- Consultas CPE
-- Configuraciones avanzadas
-
-## ⚖️ Licencia y Uso
-
-**Este proyecto es de uso libre bajo las siguientes condiciones:**
-
-- ✅ Puedes usar, modificar y distribuir el código libremente
-- ✅ Puedes usarlo para proyectos comerciales y personales
-- ⚠️ **Todo el uso es bajo tu propia responsabilidad**
-- ⚠️ No se ofrece garantía ni soporte oficial
-- ⚠️ Debes cumplir con las normativas de SUNAT de tu país
-
-### Importante
-- Asegúrate de tener los certificados digitales válidos de SUNAT
-- Configura correctamente los endpoints según tu ambiente (beta/producción)
-- Realiza pruebas exhaustivas antes de usar en producción
-- Mantén actualizadas las librerías de seguridad
-
-## 🤝 Soporte y Donaciones
-
-Si este proyecto te ha sido útil y deseas apoyar su desarrollo:
-
-### 💰 Yape (Perú)
-<p align="center">
-  <img src="./public/assets/images/yape.png" alt="Yape" width="100">
-</p>
-
-**Número:** `920468502`
-
-### 💬 WhatsApp
-**Contacto:** [https://wa.link/z50dwk](https://wa.link/z50dwk)
-
-### 📧 Contribuciones
-- Fork el proyecto
-- Crea una rama para tu feature
-- Envía un pull request
+```bash
+php artisan serve
+```
 
 ---
 
-## 📞 Contacto
+## 9️⃣ Acceder al sistema
 
-Para consultas técnicas o colaboraciones:
-- **WhatsApp**: [https://wa.link/z50dwk](https://wa.link/z50dwk)
-- **Yape**: 920468502
+API Backend:
+
+```bash
+http://localhost:8000
+```
 
 ---
 
-**⚡ Desarrollado con Laravel 12 y Greenter 5.1 para la comunidad peruana**
+# 📡 API REST
 
-*"Facilitando la facturación electrónica en Perú - Un documento a la vez"*
+## 🧾 Facturación CFDI
+
+```http
+POST /api/cfdi/create
+```
+
+---
+
+## 📥 Descargar XML
+
+```http
+GET /api/cfdi/xml/{id}
+```
+
+---
+
+## 📄 Descargar PDF
+
+```http
+GET /api/cfdi/pdf/{id}
+```
+
+---
+
+## ❌ Cancelar CFDI
+
+```http
+POST /api/cfdi/cancel/{id}
+```
+
+---
+
+# 🐳 Docker
+
+## 📦 Dockerfile
+
+```dockerfile
+FROM php:8.2
+
+WORKDIR /app
+
+COPY . .
+
+RUN docker-php-ext-install pdo pdo_mysql
+
+EXPOSE 8000
+
+CMD php artisan serve --host=0.0.0.0 --port=8000
+```
+
+---
+
+## ⚙️ Docker Compose
+
+```yaml
+version: '3'
+
+services:
+  app:
+    build: .
+    ports:
+      - "8000:8000"
+
+  mysql:
+    image: mysql:8
+    environment:
+      MYSQL_DATABASE: sat_facturacion
+      MYSQL_ROOT_PASSWORD: root
+    ports:
+      - "3306:3306"
+```
+
+---
+
+# 📸 Vista previa
+
+<div align="center">
+
+<img width="1000" src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1200&auto=format&fit=crop" />
+
+</div>
+
+---
+
+# 🧠 Objetivos del proyecto
+
+## 🎯 Aprender y practicar
+
+- Laravel 12
+- APIs REST
+- CFDI 4.0
+- Integración SAT
+- Docker
+- Seguridad JWT
+- Arquitectura MVC
+- Gestión documental electrónica
+
+---
+
+# 🚧 Roadmap
+
+## 🔮 Próximas mejoras
+
+- 🤖 Validaciones inteligentes CFDI
+- ☁️ Deploy cloud
+- 📱 Panel administrativo responsive
+- 📊 Dashboard avanzado
+- 🔔 Notificaciones automáticas
+- 📨 Integración con correo empresarial
+- 💳 Módulo de pagos
+
+---
+
+# 🤝 Contribuciones
+
+Las contribuciones son bienvenidas ❤️
+
+## Cómo contribuir
+
+1. Fork del proyecto
+
+```bash
+git checkout -b feature/nueva-funcionalidad
+```
+
+2. Commit
+
+```bash
+git commit -m "✨ Nueva funcionalidad"
+```
+
+3. Push
+
+```bash
+git push origin feature/nueva-funcionalidad
+```
+
+4. Pull Request 🚀
+
+---
+
+# 👨‍💻 Autor
+
+<div align="center">
+
+## Isai Reyes — Full Stack Developer
+
+Desarrollador enfocado en APIs fiscales, sistemas empresariales y plataformas modernas.
+
+</div>
+
+---
+
+# 🌟 Apoya el proyecto
+
+⭐ Dale una estrella  
+🍴 Haz fork  
+📢 Comparte el proyecto
+
+---
+
+# 📜 Licencia
+
+Proyecto educativo desarrollado para práctica de APIs REST, facturación electrónica CFDI 4.0 y sistemas fiscales modernos en México.
+
+---
+
+<div align="center">
+
+### 🇲🇽 SAT Facturación Electrónica — automatizando la facturación digital en México 🚀
+
+</div>
