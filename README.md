@@ -165,7 +165,7 @@ El proyecto fue desarrollado para practicar:
 # 📂 Estructura del proyecto
 
 ```bash
-sat-facturacion/
+API-FacturacionElectronica/
 │
 ├── app/
 │   ├── Models/
@@ -211,7 +211,7 @@ sat-facturacion/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/usuario/sat-facturacion.git
+git clone https://github.com/isairey/API-FacturacionElectronica.git
 ```
 
 ---
@@ -219,7 +219,7 @@ git clone https://github.com/usuario/sat-facturacion.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd sat-facturacion
+cd API-FacturacionElectronica
 ```
 
 ---
